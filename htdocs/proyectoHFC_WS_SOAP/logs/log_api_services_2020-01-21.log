@@ -1,0 +1,971 @@
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 08:44:53 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk2MTQyOTMsImV4cCI6MTU3OTYxNzg5M30.1sbAA2dEpgBOhX1Umu502eFnjP8FQT_kO14kLxQAREs
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 08:45:30 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><CANTIDAD>3</CANTIDAD><SERVICIO1>
+                                                        <Cmts>MALA1</Cmts>
+                                                        <Nodo>ZS</Nodo>
+                                                        <Troba>R001</Troba>
+                                                        <ServicePackage>200M</ServicePackage>
+                                                        <Ussnr>42.1</Ussnr>
+                                                        <Dssnr>33.6</Dssnr>
+                                                        <IpCm>10.107.16.44</IpCm>
+                                                        <MacAddress>ec:0e:c4:77:cc:89</MacAddress>
+                                                        <Fabricante>Ubee</Fabricante>
+                                                        <Modelo>DVW32E</Modelo>
+                                                        <Firmware>9.36.2005r</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>50.0</PowerUp>
+                                                        <PowerDown>-0.7</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO1><SERVICIO2>
+                                                        <Cmts>WASHINGTON2</Cmts>
+                                                        <Nodo>WA</Nodo>
+                                                        <Troba>R051</Troba>
+                                                        <ServicePackage>1M</ServicePackage>
+                                                        <Ussnr>null</Ussnr>
+                                                        <Dssnr>null</Dssnr>
+                                                        <IpCm>0.0.0.0</IpCm>
+                                                        <MacAddress>08:6a:0a:60:e5:ce</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CGNAT</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>null</PowerUp>
+                                                        <PowerDown>null</PowerDown>
+                                                        <MACState>offline</MACState>
+                                                        <Mensaje>Probable averia en:Red Cliente</Mensaje>                                
+                                                    </SERVICIO2><SERVICIO3>
+                                                        <Cmts>SAN ISIDRO1</Cmts>
+                                                        <Nodo>SI</Nodo>
+                                                        <Troba>R083</Troba>
+                                                        <ServicePackage>40M</ServicePackage>
+                                                        <Ussnr>35.6</Ussnr>
+                                                        <Dssnr>43.8</Dssnr>
+                                                        <IpCm>10.154.36.200</IpCm>
+                                                        <MacAddress>b4:ee:b4:7e:39:64</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>45.8</PowerUp>
+                                                        <PowerDown>1.2</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO3></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 08:47:26 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202013. DEBE ENVIAR CODIGO DE AUTORIZACION DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 09:09:38 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202002. DEBE ENVIAR EL USUARIO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 09:10:12 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202002. DEBE ENVIAR EL USUARIO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 09:14:32 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202012. DEBE ENVIAR CODIGO DE CLIENTE DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 09:19:06 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: 202011. CODIGO DE CLIENTE NO PUEDE SER CERO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 09:22:11 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202010. CODIGO DE CLIENTE TIENE QUE SER NUMERICO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 09:25:31 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><CANTIDAD>3</CANTIDAD><SERVICIO1>
+                                                        <Cmts>MALA1</Cmts>
+                                                        <Nodo>ZS</Nodo>
+                                                        <Troba>R001</Troba>
+                                                        <ServicePackage>200M</ServicePackage>
+                                                        <Ussnr>42.1</Ussnr>
+                                                        <Dssnr>33.6</Dssnr>
+                                                        <IpCm>10.107.16.44</IpCm>
+                                                        <MacAddress>ec:0e:c4:77:cc:89</MacAddress>
+                                                        <Fabricante>Ubee</Fabricante>
+                                                        <Modelo>DVW32E</Modelo>
+                                                        <Firmware>9.36.2005r</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>50.0</PowerUp>
+                                                        <PowerDown>-0.7</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO1><SERVICIO2>
+                                                        <Cmts>WASHINGTON2</Cmts>
+                                                        <Nodo>WA</Nodo>
+                                                        <Troba>R051</Troba>
+                                                        <ServicePackage>1M</ServicePackage>
+                                                        <Ussnr>null</Ussnr>
+                                                        <Dssnr>null</Dssnr>
+                                                        <IpCm>0.0.0.0</IpCm>
+                                                        <MacAddress>08:6a:0a:60:e5:ce</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CGNAT</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>null</PowerUp>
+                                                        <PowerDown>null</PowerDown>
+                                                        <MACState>offline</MACState>
+                                                        <Mensaje>Probable averia en:Red Cliente</Mensaje>                                
+                                                    </SERVICIO2><SERVICIO3>
+                                                        <Cmts>SAN ISIDRO1</Cmts>
+                                                        <Nodo>SI</Nodo>
+                                                        <Troba>R083</Troba>
+                                                        <ServicePackage>40M</ServicePackage>
+                                                        <Ussnr>35.6</Ussnr>
+                                                        <Dssnr>43.8</Dssnr>
+                                                        <IpCm>10.154.36.200</IpCm>
+                                                        <MacAddress>b4:ee:b4:7e:39:64</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>45.8</PowerUp>
+                                                        <PowerDown>2.0</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO3></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 09:28:20 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><CANTIDAD>3</CANTIDAD><SERVICIO1>
+                                                        <Cmts>MALA1</Cmts>
+                                                        <Nodo>ZS</Nodo>
+                                                        <Troba>R001</Troba>
+                                                        <ServicePackage>200M</ServicePackage>
+                                                        <Ussnr>42.1</Ussnr>
+                                                        <Dssnr>33.8</Dssnr>
+                                                        <IpCm>10.107.16.44</IpCm>
+                                                        <MacAddress>ec:0e:c4:77:cc:89</MacAddress>
+                                                        <Fabricante>Ubee</Fabricante>
+                                                        <Modelo>DVW32E</Modelo>
+                                                        <Firmware>9.36.2005r</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>50.0</PowerUp>
+                                                        <PowerDown>-0.6</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO1><SERVICIO2>
+                                                        <Cmts>WASHINGTON2</Cmts>
+                                                        <Nodo>WA</Nodo>
+                                                        <Troba>R051</Troba>
+                                                        <ServicePackage>1M</ServicePackage>
+                                                        <Ussnr>null</Ussnr>
+                                                        <Dssnr>null</Dssnr>
+                                                        <IpCm>0.0.0.0</IpCm>
+                                                        <MacAddress>08:6a:0a:60:e5:ce</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CGNAT</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>null</PowerUp>
+                                                        <PowerDown>null</PowerDown>
+                                                        <MACState>offline</MACState>
+                                                        <Mensaje>Probable averia en:Red Cliente</Mensaje>                                
+                                                    </SERVICIO2><SERVICIO3>
+                                                        <Cmts>SAN ISIDRO1</Cmts>
+                                                        <Nodo>SI</Nodo>
+                                                        <Troba>R083</Troba>
+                                                        <ServicePackage>40M</ServicePackage>
+                                                        <Ussnr>35.6</Ussnr>
+                                                        <Dssnr>43.9</Dssnr>
+                                                        <IpCm>10.154.36.200</IpCm>
+                                                        <MacAddress>b4:ee:b4:7e:39:64</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>45.8</PowerUp>
+                                                        <PowerDown>2.3</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO3></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 09:28:34 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202014. TOKEN INVÁLIDO. VERIFICAR O GENERAR UNO NUEVO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 09:31:29 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><CANTIDAD>3</CANTIDAD><SERVICIO1>
+                                                        <Cmts>MALA1</Cmts>
+                                                        <Nodo>ZS</Nodo>
+                                                        <Troba>R001</Troba>
+                                                        <ServicePackage>200M</ServicePackage>
+                                                        <Ussnr>42.1</Ussnr>
+                                                        <Dssnr>33.8</Dssnr>
+                                                        <IpCm>10.107.16.44</IpCm>
+                                                        <MacAddress>ec:0e:c4:77:cc:89</MacAddress>
+                                                        <Fabricante>Ubee</Fabricante>
+                                                        <Modelo>DVW32E</Modelo>
+                                                        <Firmware>9.36.2005r</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>50.0</PowerUp>
+                                                        <PowerDown>-0.6</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO1><SERVICIO2>
+                                                        <Cmts>WASHINGTON2</Cmts>
+                                                        <Nodo>WA</Nodo>
+                                                        <Troba>R051</Troba>
+                                                        <ServicePackage>1M</ServicePackage>
+                                                        <Ussnr>null</Ussnr>
+                                                        <Dssnr>null</Dssnr>
+                                                        <IpCm>0.0.0.0</IpCm>
+                                                        <MacAddress>08:6a:0a:60:e5:ce</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CGNAT</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>null</PowerUp>
+                                                        <PowerDown>null</PowerDown>
+                                                        <MACState>offline</MACState>
+                                                        <Mensaje>Probable averia en:Red Cliente</Mensaje>                                
+                                                    </SERVICIO2><SERVICIO3>
+                                                        <Cmts>SAN ISIDRO1</Cmts>
+                                                        <Nodo>SI</Nodo>
+                                                        <Troba>R083</Troba>
+                                                        <ServicePackage>40M</ServicePackage>
+                                                        <Ussnr>35.6</Ussnr>
+                                                        <Dssnr>43.9</Dssnr>
+                                                        <IpCm>10.154.36.200</IpCm>
+                                                        <MacAddress>b4:ee:b4:7e:39:64</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>45.8</PowerUp>
+                                                        <PowerDown>2.3</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO3></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 09:33:59 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><CANTIDAD>3</CANTIDAD><SERVICIO1>
+                                                        <Cmts>MALA1</Cmts>
+                                                        <Nodo>ZS</Nodo>
+                                                        <Troba>R001</Troba>
+                                                        <ServicePackage>200M</ServicePackage>
+                                                        <Ussnr>42.1</Ussnr>
+                                                        <Dssnr>33.8</Dssnr>
+                                                        <IpCm>10.107.16.44</IpCm>
+                                                        <MacAddress>ec:0e:c4:77:cc:89</MacAddress>
+                                                        <Fabricante>Ubee</Fabricante>
+                                                        <Modelo>DVW32E</Modelo>
+                                                        <Firmware>9.36.2005r</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>50.0</PowerUp>
+                                                        <PowerDown>-0.6</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO1><SERVICIO2>
+                                                        <Cmts>WASHINGTON2</Cmts>
+                                                        <Nodo>WA</Nodo>
+                                                        <Troba>R051</Troba>
+                                                        <ServicePackage>1M</ServicePackage>
+                                                        <Ussnr>null</Ussnr>
+                                                        <Dssnr>null</Dssnr>
+                                                        <IpCm>0.0.0.0</IpCm>
+                                                        <MacAddress>08:6a:0a:60:e5:ce</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CGNAT</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>null</PowerUp>
+                                                        <PowerDown>null</PowerDown>
+                                                        <MACState>offline</MACState>
+                                                        <Mensaje>Probable averia en:Red Cliente</Mensaje>                                
+                                                    </SERVICIO2><SERVICIO3>
+                                                        <Cmts>SAN ISIDRO1</Cmts>
+                                                        <Nodo>SI</Nodo>
+                                                        <Troba>R083</Troba>
+                                                        <ServicePackage>40M</ServicePackage>
+                                                        <Ussnr>35.6</Ussnr>
+                                                        <Dssnr>43.9</Dssnr>
+                                                        <IpCm>10.154.36.200</IpCm>
+                                                        <MacAddress>b4:ee:b4:7e:39:64</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>45.8</PowerUp>
+                                                        <PowerDown>2.3</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO3></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 09:35:02 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202015. ERROR DE CODIGO EN EL PROCESO DE CONSULTA A LA BASE DE DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 09:35:02 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202016. ERROR DE VALIDACIÓN DE CREDENCIALES.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 09:40:22 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TESTING 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202016. ERROR DE VALIDACIÓN DE CREDENCIALES.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 09:46:59 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TESTING 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202014. TOKEN INVÁLIDO. VERIFICAR O GENERAR UNO NUEVO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 10:08:41 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk2MTkzMjEsImV4cCI6MTU3OTYyMjkyMX0.LhLngBPrn1iYQTuZW8CTIYm6QzEm5p88yjesdoud1W0
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 10:09:07 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><CANTIDAD>3</CANTIDAD><SERVICIO1>
+                                                        <Cmts>MALA1</Cmts>
+                                                        <Nodo>ZS</Nodo>
+                                                        <Troba>R001</Troba>
+                                                        <ServicePackage>200M</ServicePackage>
+                                                        <Ussnr>42.1</Ussnr>
+                                                        <Dssnr>33.7</Dssnr>
+                                                        <IpCm>10.107.16.44</IpCm>
+                                                        <MacAddress>ec:0e:c4:77:cc:89</MacAddress>
+                                                        <Fabricante>Ubee</Fabricante>
+                                                        <Modelo>DVW32E</Modelo>
+                                                        <Firmware>9.36.2005r</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>50.0</PowerUp>
+                                                        <PowerDown>-0.6</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO1><SERVICIO2>
+                                                        <Cmts>WASHINGTON2</Cmts>
+                                                        <Nodo>WA</Nodo>
+                                                        <Troba>R051</Troba>
+                                                        <ServicePackage>1M</ServicePackage>
+                                                        <Ussnr>null</Ussnr>
+                                                        <Dssnr>null</Dssnr>
+                                                        <IpCm>0.0.0.0</IpCm>
+                                                        <MacAddress>08:6a:0a:60:e5:ce</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CGNAT</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>null</PowerUp>
+                                                        <PowerDown>null</PowerDown>
+                                                        <MACState>offline</MACState>
+                                                        <Mensaje>Probable averia en:Red Cliente</Mensaje>                                
+                                                    </SERVICIO2><SERVICIO3>
+                                                        <Cmts>SAN ISIDRO1</Cmts>
+                                                        <Nodo>SI</Nodo>
+                                                        <Troba>R083</Troba>
+                                                        <ServicePackage>40M</ServicePackage>
+                                                        <Ussnr>36.1</Ussnr>
+                                                        <Dssnr>43.9</Dssnr>
+                                                        <IpCm>10.154.36.200</IpCm>
+                                                        <MacAddress>b4:ee:b4:7e:39:64</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>45.8</PowerUp>
+                                                        <PowerDown>2.1</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO3></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 10:09:45 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 201910. TOKEN INVALIDO DE USUARIO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 10:11:14 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 201906. CODIGO DE CLIENTE NO EXISTE.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 10:56:58 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 201910. TOKEN INVALIDO DE USUARIO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 11:02:37 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202002. DEBE ENVIAR EL USUARIO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 11:07:21 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202012. DEBE ENVIAR CODIGO DE CLIENTE DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 11:08:39 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: 202011. CODIGO DE CLIENTE NO PUEDE SER CERO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 11:09:38 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202010. CODIGO DE CLIENTE TIENE QUE SER NUMERICO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 11:10:52 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202014. TOKEN INVÁLIDO. VERIFICAR O GENERAR UNO NUEVO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 11:11:58 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202014. TOKEN INVÁLIDO. VERIFICAR O GENERAR UNO NUEVO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 11:12:26 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202014. TOKEN INVÁLIDO. VERIFICAR O GENERAR UNO NUEVO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 11:12:45 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk2MjMxNjUsImV4cCI6MTU3OTYyNjc2NX0.Ltx6cRCFg2LMrV4n-RDVsnjBa64FGO-Oqml0KccZRbc
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 11:12:58 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: ERROR:201906. CODIGO DE CLIENTE NO EXISTE.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 11:14:57 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><IDCliente>73</IDCliente><IPS><DisponibilidadIP>NOK</DisponibilidadIP><DataIPS1>
+                                                        <DetalleIPS CMTS>LIMMALCMTSC100G</DetalleIPS CMTS>
+                                                        <DetalleTipoIPS SCOPEGROUP>CPE</DetalleTipoIPS SCOPEGROUP>
+                                                        <TOTAL>2024</TOTAL>
+                                                        <DISPONIBLES>150</DISPONIBLES>                               
+                                                    </DataIPS1></IPS><TrabajoProgramado><EnTrabajoProgramado>NOK</EnTrabajoProgramado></TrabajoProgramado><Masiva><EnMasiva>NOK</EnMasiva></Masiva><Alertado><EstaAlertado>NOK</EstaAlertado></Alertado></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 11:23:04 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><CANTIDAD>3</CANTIDAD><SERVICIO1>
+                                                        <Cmts>MALA1</Cmts>
+                                                        <Nodo>ZS</Nodo>
+                                                        <Troba>R001</Troba>
+                                                        <ServicePackage>200M</ServicePackage>
+                                                        <Ussnr>42.1</Ussnr>
+                                                        <Dssnr>33.9</Dssnr>
+                                                        <IpCm>10.107.16.44</IpCm>
+                                                        <MacAddress>ec:0e:c4:77:cc:89</MacAddress>
+                                                        <Fabricante>Ubee</Fabricante>
+                                                        <Modelo>DVW32E</Modelo>
+                                                        <Firmware>9.36.2005r</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>50.0</PowerUp>
+                                                        <PowerDown>-0.6</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO1><SERVICIO2>
+                                                        <Cmts>WASHINGTON2</Cmts>
+                                                        <Nodo>WA</Nodo>
+                                                        <Troba>R051</Troba>
+                                                        <ServicePackage>1M</ServicePackage>
+                                                        <Ussnr>null</Ussnr>
+                                                        <Dssnr>null</Dssnr>
+                                                        <IpCm>0.0.0.0</IpCm>
+                                                        <MacAddress>08:6a:0a:60:e5:ce</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CGNAT</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>null</PowerUp>
+                                                        <PowerDown>null</PowerDown>
+                                                        <MACState>offline</MACState>
+                                                        <Mensaje>Probable averia en:Red Cliente</Mensaje>                                
+                                                    </SERVICIO2><SERVICIO3>
+                                                        <Cmts>SAN ISIDRO1</Cmts>
+                                                        <Nodo>SI</Nodo>
+                                                        <Troba>R083</Troba>
+                                                        <ServicePackage>40M</ServicePackage>
+                                                        <Ussnr>34.7</Ussnr>
+                                                        <Dssnr>43.2</Dssnr>
+                                                        <IpCm>10.154.36.200</IpCm>
+                                                        <MacAddress>b4:ee:b4:7e:39:64</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>45.8</PowerUp>
+                                                        <PowerDown>1.1</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO3></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 11:23:18 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TESTING 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202016. ERROR DE VALIDACIÓN DE CREDENCIALES.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 15:11:13 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk2Mzc0NzMsImV4cCI6MTU3OTY0MTA3M30.gPBC0PLWFm1p22gVfgIZ68T_8KSKy-LGCLXl89Wr0QY
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 15:59:30 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><CANTIDAD>3</CANTIDAD><SERVICIO1>
+                                                        <Cmts>MALA1</Cmts>
+                                                        <Nodo>ZS</Nodo>
+                                                        <Troba>R001</Troba>
+                                                        <ServicePackage>200M</ServicePackage>
+                                                        <Ussnr>42.1</Ussnr>
+                                                        <Dssnr>33.6</Dssnr>
+                                                        <IpCm>10.107.16.44</IpCm>
+                                                        <MacAddress>ec:0e:c4:77:cc:89</MacAddress>
+                                                        <Fabricante>Ubee</Fabricante>
+                                                        <Modelo>DVW32E</Modelo>
+                                                        <Firmware>9.36.2005r</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>50.0</PowerUp>
+                                                        <PowerDown>-0.6</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO1><SERVICIO2>
+                                                        <Cmts>WASHINGTON2</Cmts>
+                                                        <Nodo>WA</Nodo>
+                                                        <Troba>R051</Troba>
+                                                        <ServicePackage>1M</ServicePackage>
+                                                        <Ussnr>null</Ussnr>
+                                                        <Dssnr>null</Dssnr>
+                                                        <IpCm>0.0.0.0</IpCm>
+                                                        <MacAddress>08:6a:0a:60:e5:ce</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CGNAT</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>null</PowerUp>
+                                                        <PowerDown>null</PowerDown>
+                                                        <MACState>offline</MACState>
+                                                        <Mensaje>Probable averia en:Red Cliente</Mensaje>                                
+                                                    </SERVICIO2><SERVICIO3>
+                                                        <Cmts>SAN ISIDRO1</Cmts>
+                                                        <Nodo>SI</Nodo>
+                                                        <Troba>R083</Troba>
+                                                        <ServicePackage>40M</ServicePackage>
+                                                        <Ussnr>37.4</Ussnr>
+                                                        <Dssnr>43.8</Dssnr>
+                                                        <IpCm>10.154.36.200</IpCm>
+                                                        <MacAddress>b4:ee:b4:7e:39:64</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>45.8</PowerUp>
+                                                        <PowerDown>1.7</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO3></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 16:04:04 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk2NDA2NDQsImV4cCI6MTU3OTY0NDI0NH0.56aYqQrZLLe06jSeTjjGKr5IchbnuZnhY60qr55g42s
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 16:05:34 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk2NDA3MzQsImV4cCI6MTU3OTY0NDMzNH0.wUxpG5g06Sn-MYrMJ_F7U0FulCeyJfGMBoxNSl1fRrU
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 16:05:55 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202015. ERROR DE CODIGO EN EL PROCESO DE CONSULTA A LA BASE DE DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 16:05:55 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202016. ERROR DE VALIDACIÓN DE CREDENCIALES.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 16:08:16 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><IDCliente>73</IDCliente><IPS><DisponibilidadIP>NOK</DisponibilidadIP><DataIPS1>
+                                                        <DetalleIPS CMTS>LIMMALCMTSC100G</DetalleIPS CMTS>
+                                                        <DetalleTipoIPS SCOPEGROUP>CPE</DetalleTipoIPS SCOPEGROUP>
+                                                        <TOTAL>2024</TOTAL>
+                                                        <DISPONIBLES>158</DISPONIBLES>                               
+                                                    </DataIPS1></IPS><TrabajoProgramado><EnTrabajoProgramado>NOK</EnTrabajoProgramado></TrabajoProgramado><Masiva><EnMasiva>NOK</EnMasiva></Masiva><Alertado><EstaAlertado>NOK</EstaAlertado></Alertado></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 16:28:10 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202014. TOKEN INVÁLIDO. VERIFICAR O GENERAR UNO NUEVO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 16:28:31 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk2NDIxMTEsImV4cCI6MTU3OTY0NTcxMX0.I0rMzxognVfZwGRELqDSS9TtQ4HXtzKgj5P-R6A5pAc
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 16:29:10 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>43.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>5.9</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>38.2</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>38.6</Valor>                               
+                                                    </Parametro4><Resultado>undefined</Resultado><Mensaje>0#USPWR|43.5|DSPWR|5.9|USSNR|38.2|DSSNR|38.6</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 16:57:03 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk2NDM4MjMsImV4cCI6MTU3OTY0NzQyM30.-wxB8JI-zWqs4HxkD5IwV6_FmcEISPElLZpYT_jK82g
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 16:57:29 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201923. EL FORMATO NO ES CORRECTO, NO SE ENCUENTRAN PUNTOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-21 16:57:38 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201925. NO SE HA ENCONTRADO INFORMACION DE LOS DATOS.
+

@@ -1,0 +1,2291 @@
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 08:33:16 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk3ODYzOTYsImV4cCI6MTU3OTc4OTk5Nn0.tPQSfkCw5zoIJQADJv0-ez7Hl-c_-4L5CwocTCFUBlI
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 08:34:52 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><CANTIDAD>3</CANTIDAD><SERVICIO1>
+                                                        <Cmts>MALA1</Cmts>
+                                                        <Nodo>ZS</Nodo>
+                                                        <Troba>R001</Troba>
+                                                        <ServicePackage>200M</ServicePackage>
+                                                        <Ussnr>42.1</Ussnr>
+                                                        <Dssnr>34.4</Dssnr>
+                                                        <IpCm>10.107.16.44</IpCm>
+                                                        <MacAddress>ec:0e:c4:77:cc:89</MacAddress>
+                                                        <Fabricante>Ubee</Fabricante>
+                                                        <Modelo>DVW32E</Modelo>
+                                                        <Firmware>9.36.2005r</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>50.0</PowerUp>
+                                                        <PowerDown>-0.4</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO1><SERVICIO2>
+                                                        <Cmts>WASHINGTON2</Cmts>
+                                                        <Nodo>WA</Nodo>
+                                                        <Troba>R051</Troba>
+                                                        <ServicePackage>1M</ServicePackage>
+                                                        <Ussnr>null</Ussnr>
+                                                        <Dssnr>null</Dssnr>
+                                                        <IpCm>0.0.0.0</IpCm>
+                                                        <MacAddress>08:6a:0a:60:e5:ce</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CGNAT</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>null</PowerUp>
+                                                        <PowerDown>null</PowerDown>
+                                                        <MACState>offline</MACState>
+                                                        <Mensaje>Probable averia en:Red Cliente</Mensaje>                                
+                                                    </SERVICIO2><SERVICIO3>
+                                                        <Cmts>SAN ISIDRO1</Cmts>
+                                                        <Nodo>SI</Nodo>
+                                                        <Troba>R083</Troba>
+                                                        <ServicePackage>40M</ServicePackage>
+                                                        <Ussnr>34.7</Ussnr>
+                                                        <Dssnr>43.2</Dssnr>
+                                                        <IpCm>10.154.36.200</IpCm>
+                                                        <MacAddress>b4:ee:b4:7e:39:64</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>45.5</PowerUp>
+                                                        <PowerDown>1.3</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO3></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 08:35:28 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@multiconsultaIdCliente
+Descripcion del motivo de evento: Método Obsoleto, usar el metodo getInfoBasicaServicioHFCxCliente
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 08:35:29 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><CANTIDAD>3</CANTIDAD><SERVICIO1>
+                                                        <Cmts>MALA1</Cmts>
+                                                        <Nodo>ZS</Nodo>
+                                                        <Troba>R001</Troba>
+                                                        <ServicePackage>200M</ServicePackage>
+                                                        <Ussnr>42.1</Ussnr>
+                                                        <Dssnr>34.4</Dssnr>
+                                                        <IpCm>10.107.16.44</IpCm>
+                                                        <MacAddress>ec:0e:c4:77:cc:89</MacAddress>
+                                                        <Fabricante>Ubee</Fabricante>
+                                                        <Modelo>DVW32E</Modelo>
+                                                        <Firmware>9.36.2005r</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>50.0</PowerUp>
+                                                        <PowerDown>-0.4</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO1><SERVICIO2>
+                                                        <Cmts>WASHINGTON2</Cmts>
+                                                        <Nodo>WA</Nodo>
+                                                        <Troba>R051</Troba>
+                                                        <ServicePackage>1M</ServicePackage>
+                                                        <Ussnr>null</Ussnr>
+                                                        <Dssnr>null</Dssnr>
+                                                        <IpCm>0.0.0.0</IpCm>
+                                                        <MacAddress>08:6a:0a:60:e5:ce</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CGNAT</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>null</PowerUp>
+                                                        <PowerDown>null</PowerDown>
+                                                        <MACState>offline</MACState>
+                                                        <Mensaje>Probable averia en:Red Cliente</Mensaje>                                
+                                                    </SERVICIO2><SERVICIO3>
+                                                        <Cmts>SAN ISIDRO1</Cmts>
+                                                        <Nodo>SI</Nodo>
+                                                        <Troba>R083</Troba>
+                                                        <ServicePackage>40M</ServicePackage>
+                                                        <Ussnr>34.7</Ussnr>
+                                                        <Dssnr>43.2</Dssnr>
+                                                        <IpCm>10.154.36.200</IpCm>
+                                                        <MacAddress>b4:ee:b4:7e:39:64</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>45.5</PowerUp>
+                                                        <PowerDown>1.3</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO3></RETURN></CLIENTE><INFORMACION>Método Obsoleto, usar el metodo getInfoBasicaServicioHFCxCliente</INFORMACION>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 08:36:09 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><IDCliente>73</IDCliente><IPS><DisponibilidadIP>NOK</DisponibilidadIP><DataIPS1>
+                                                        <DetalleIPS CMTS>LIMMALCMTSC100G</DetalleIPS CMTS>
+                                                        <DetalleTipoIPS SCOPEGROUP>CPE</DetalleTipoIPS SCOPEGROUP>
+                                                        <TOTAL>2024</TOTAL>
+                                                        <DISPONIBLES>165</DISPONIBLES>                               
+                                                    </DataIPS1></IPS><TrabajoProgramado><EnTrabajoProgramado>NOK</EnTrabajoProgramado></TrabajoProgramado><Masiva><EnMasiva>NOK</EnMasiva></Masiva><Alertado><EstaAlertado>NOK</EstaAlertado></Alertado></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 08:36:45 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@verifyHFCByIdClientResponse
+Descripcion del motivo de evento: Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 08:36:46 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><IDCliente>73</IDCliente><IPS><DisponibilidadIP>NOK</DisponibilidadIP><DataIPS1>
+                                                        <DetalleIPS CMTS>LIMMALCMTSC100G</DetalleIPS CMTS>
+                                                        <DetalleTipoIPS SCOPEGROUP>CPE</DetalleTipoIPS SCOPEGROUP>
+                                                        <TOTAL>2024</TOTAL>
+                                                        <DISPONIBLES>165</DISPONIBLES>                               
+                                                    </DataIPS1></IPS><TrabajoProgramado><EnTrabajoProgramado>NOK</EnTrabajoProgramado></TrabajoProgramado><Masiva><EnMasiva>NOK</EnMasiva></Masiva><Alertado><EstaAlertado>NOK</EstaAlertado></Alertado><INFORMACION>Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente</INFORMACION></RETURN></CLIENTE><INFORMACION>Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente</INFORMACION>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 08:38:00 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.5</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>37.50</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.5|USSNR|37.50|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 08:39:02 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>42.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>6.6</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>37.4</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>38.6</Valor>                               
+                                                    </Parametro4><Mensaje>0#USPWR|42.5|DSPWR|6.6|USSNR|37.4|DSSNR|38.6</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 08:48:07 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><CANTIDAD>3</CANTIDAD><SERVICIO1>
+                                                        <Cmts>MALA1</Cmts>
+                                                        <Nodo>ZS</Nodo>
+                                                        <Troba>R001</Troba>
+                                                        <ServicePackage>200M</ServicePackage>
+                                                        <Ussnr>42.1</Ussnr>
+                                                        <Dssnr>34.6</Dssnr>
+                                                        <IpCm>10.107.16.44</IpCm>
+                                                        <MacAddress>ec:0e:c4:77:cc:89</MacAddress>
+                                                        <Fabricante>Ubee</Fabricante>
+                                                        <Modelo>DVW32E</Modelo>
+                                                        <Firmware>9.36.2005r</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>50.0</PowerUp>
+                                                        <PowerDown>-0.4</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO1><SERVICIO2>
+                                                        <Cmts>WASHINGTON2</Cmts>
+                                                        <Nodo>WA</Nodo>
+                                                        <Troba>R051</Troba>
+                                                        <ServicePackage>1M</ServicePackage>
+                                                        <Ussnr>null</Ussnr>
+                                                        <Dssnr>null</Dssnr>
+                                                        <IpCm>0.0.0.0</IpCm>
+                                                        <MacAddress>08:6a:0a:60:e5:ce</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CGNAT</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>null</PowerUp>
+                                                        <PowerDown>null</PowerDown>
+                                                        <MACState>offline</MACState>
+                                                        <Mensaje>Probable averia en:Red Cliente</Mensaje>                                
+                                                    </SERVICIO2><SERVICIO3>
+                                                        <Cmts>SAN ISIDRO1</Cmts>
+                                                        <Nodo>SI</Nodo>
+                                                        <Troba>R083</Troba>
+                                                        <ServicePackage>40M</ServicePackage>
+                                                        <Ussnr>35.1</Ussnr>
+                                                        <Dssnr>43.3</Dssnr>
+                                                        <IpCm>10.154.36.200</IpCm>
+                                                        <MacAddress>b4:ee:b4:7e:39:64</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>45.5</PowerUp>
+                                                        <PowerDown>1.3</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO3></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 08:57:30 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 202001. DEBE ENVIAR EL USUARIO Y PASSWORD DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 08:58:08 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 202002. DEBE ENVIAR EL USUARIO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 08:58:32 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 202003. DEBE ENVIAR EL PASSWORD DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 09:00:39 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TESTjng 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 201908. USUARIO NO EXISTE.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 09:01:16 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 201909. PASSWORD ERRADO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 09:31:18 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201911. TIEMPO DE TOKEN EXPIRO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 09:32:00 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 201909. PASSWORD ERRADO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 09:32:10 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk3ODk5MjksImV4cCI6MTU3OTc5MzUyOX0.hQT6gOMjPi_WpiVUWfK9VY5Gk-mgxvdF1LebWdBbAWw
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 09:32:28 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201911. TIEMPO DE TOKEN EXPIRO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 09:54:06 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 202001. DEBE ENVIAR EL USUARIO Y PASSWORD DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 09:54:13 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 202002. DEBE ENVIAR EL USUARIO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 09:54:19 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 202003. DEBE ENVIAR EL PASSWORD DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 09:54:23 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TESTa 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 201908. USUARIO NO EXISTE.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 09:54:33 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 201909. PASSWORD ERRADO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 09:54:42 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk3OTEyODIsImV4cCI6MTU3OTc5NDg4Mn0.CaPkwOMcllB-Uu27X7oqNdGCIgfhTZTM91djSe9KoUo
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 09:56:27 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202014. TOKEN INVÁLIDO. VERIFICAR O GENERAR UNO NUEVO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 09:56:43 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202002. DEBE ENVIAR EL USUARIO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 09:56:50 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TESTa 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202016. ERROR DE VALIDACIÓN DE CREDENCIALES.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 09:57:03 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202012. DEBE ENVIAR CODIGO DE CLIENTE DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 09:57:13 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: 202011. CODIGO DE CLIENTE NO PUEDE SER CERO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 09:57:21 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202010. CODIGO DE CLIENTE TIENE QUE SER NUMERICO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 09:57:35 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 201911. TIEMPO DE TOKEN EXPIRO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:36:09 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202016. ERROR DE VALIDACIÓN DE CREDENCIALES.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:36:38 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk3OTM3OTgsImV4cCI6MTU3OTc5NzM5OH0.BmCi7c3LPW1A4kTsvljTa0EDx-1yD95_9ZqKjVcb4Sc
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:37:15 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 201906. CODIGO DE CLIENTE NO EXISTE.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:37:36 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 202002. DEBE ENVIAR EL USUARIO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:37:45 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 202003. DEBE ENVIAR EL PASSWORD DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:37:50 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 202001. DEBE ENVIAR EL USUARIO Y PASSWORD DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:38:05 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 202001. DEBE ENVIAR EL USUARIO Y PASSWORD DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:38:13 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 202002. DEBE ENVIAR EL USUARIO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:38:20 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 202003. DEBE ENVIAR EL PASSWORD DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:38:28 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TESTa 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 201908. USUARIO NO EXISTE.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:38:35 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 201909. PASSWORD ERRADO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:46:32 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 202001. DEBE ENVIAR EL USUARIO Y PASSWORD DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:47:41 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 202002. DEBE ENVIAR EL USUARIO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:47:53 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 202003. DEBE ENVIAR EL PASSWORD DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:47:59 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TESTa 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 201908. USUARIO NO EXISTE.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:48:04 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 201909. PASSWORD ERRADO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:50:17 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202002. DEBE ENVIAR EL USUARIO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:50:32 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TESTa 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202016. ERROR DE VALIDACIÓN DE CREDENCIALES.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:50:43 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202012. DEBE ENVIAR CODIGO DE CLIENTE DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:50:48 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: 202011. CODIGO DE CLIENTE NO PUEDE SER CERO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:50:55 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202010. CODIGO DE CLIENTE TIENE QUE SER NUMERICO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:51:03 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 201906. CODIGO DE CLIENTE NO EXISTE.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:51:07 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 201906. CODIGO DE CLIENTE NO EXISTE.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:51:14 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><CANTIDAD>3</CANTIDAD><SERVICIO1>
+                                                        <Cmts>MALA1</Cmts>
+                                                        <Nodo>ZS</Nodo>
+                                                        <Troba>R001</Troba>
+                                                        <ServicePackage>200M</ServicePackage>
+                                                        <Ussnr>42.1</Ussnr>
+                                                        <Dssnr>34.5</Dssnr>
+                                                        <IpCm>10.107.16.44</IpCm>
+                                                        <MacAddress>ec:0e:c4:77:cc:89</MacAddress>
+                                                        <Fabricante>Ubee</Fabricante>
+                                                        <Modelo>DVW32E</Modelo>
+                                                        <Firmware>9.36.2005r</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>50.0</PowerUp>
+                                                        <PowerDown>-0.4</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO1><SERVICIO2>
+                                                        <Cmts>null</Cmts>
+                                                        <Nodo>WA</Nodo>
+                                                        <Troba>R051</Troba>
+                                                        <ServicePackage>1M</ServicePackage>
+                                                        <Ussnr>null</Ussnr>
+                                                        <Dssnr>null</Dssnr>
+                                                        <IpCm>null</IpCm>
+                                                        <MacAddress>08:6a:0a:60:e5:ce</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CGNAT</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>null</PowerUp>
+                                                        <PowerDown>null</PowerDown>
+                                                        <MACState></MACState>
+                                                        <Mensaje>Probable averia en:Red Cliente</Mensaje>                                
+                                                    </SERVICIO2><SERVICIO3>
+                                                        <Cmts>SAN ISIDRO1</Cmts>
+                                                        <Nodo>SI</Nodo>
+                                                        <Troba>R083</Troba>
+                                                        <ServicePackage>40M</ServicePackage>
+                                                        <Ussnr>36.1</Ussnr>
+                                                        <Dssnr>43.2</Dssnr>
+                                                        <IpCm>10.154.36.200</IpCm>
+                                                        <MacAddress>b4:ee:b4:7e:39:64</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>45.5</PowerUp>
+                                                        <PowerDown>1.0</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO3></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:52:57 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@multiconsultaIdCliente
+Descripcion del motivo de evento: Método Obsoleto, usar el metodo getInfoBasicaServicioHFCxCliente
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:52:58 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoBasicaServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><CANTIDAD>3</CANTIDAD><SERVICIO1>
+                                                        <Cmts>MALA1</Cmts>
+                                                        <Nodo>ZS</Nodo>
+                                                        <Troba>R001</Troba>
+                                                        <ServicePackage>200M</ServicePackage>
+                                                        <Ussnr>42.1</Ussnr>
+                                                        <Dssnr>34.5</Dssnr>
+                                                        <IpCm>10.107.16.44</IpCm>
+                                                        <MacAddress>ec:0e:c4:77:cc:89</MacAddress>
+                                                        <Fabricante>Ubee</Fabricante>
+                                                        <Modelo>DVW32E</Modelo>
+                                                        <Firmware>9.36.2005r</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>50.0</PowerUp>
+                                                        <PowerDown>-0.4</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO1><SERVICIO2>
+                                                        <Cmts>WASHINGTON2</Cmts>
+                                                        <Nodo>WA</Nodo>
+                                                        <Troba>R051</Troba>
+                                                        <ServicePackage>1M</ServicePackage>
+                                                        <Ussnr>null</Ussnr>
+                                                        <Dssnr>null</Dssnr>
+                                                        <IpCm>0.0.0.0</IpCm>
+                                                        <MacAddress>08:6a:0a:60:e5:ce</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CGNAT</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>null</PowerUp>
+                                                        <PowerDown>null</PowerDown>
+                                                        <MACState>offline</MACState>
+                                                        <Mensaje>Probable averia en:Red Cliente</Mensaje>                                
+                                                    </SERVICIO2><SERVICIO3>
+                                                        <Cmts>SAN ISIDRO1</Cmts>
+                                                        <Nodo>SI</Nodo>
+                                                        <Troba>R083</Troba>
+                                                        <ServicePackage>40M</ServicePackage>
+                                                        <Ussnr>36.1</Ussnr>
+                                                        <Dssnr>43.2</Dssnr>
+                                                        <IpCm>10.154.36.200</IpCm>
+                                                        <MacAddress>b4:ee:b4:7e:39:64</MacAddress>
+                                                        <Fabricante>Askey</Fabricante>
+                                                        <Modelo>TCG220-TdP</Modelo>
+                                                        <Firmware>D21A.UUN04.C12.190617.02</Firmware>
+                                                        <IspCpe>CPE</IspCpe>
+                                                        <EstadoModem>Activo</EstadoModem>
+                                                        <PowerUp>45.5</PowerUp>
+                                                        <PowerDown>1.0</PowerDown>
+                                                        <MACState>online</MACState>
+                                                        <Mensaje></Mensaje>                                
+                                                    </SERVICIO3></RETURN></CLIENTE><INFORMACION>Método Obsoleto, usar el metodo getInfoBasicaServicioHFCxCliente</INFORMACION>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:53:19 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202002. DEBE ENVIAR EL USUARIO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:53:26 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TESTa 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202016. ERROR DE VALIDACIÓN DE CREDENCIALES.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:53:31 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202012. DEBE ENVIAR CODIGO DE CLIENTE DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:53:38 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: 202011. CODIGO DE CLIENTE NO PUEDE SER CERO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:53:43 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202010. CODIGO DE CLIENTE TIENE QUE SER NUMERICO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:53:53 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><IDCliente>73</IDCliente><IPS><DisponibilidadIP>NOK</DisponibilidadIP><DataIPS1>
+                                                        <DetalleIPS CMTS>LIMMALCMTSC100G</DetalleIPS CMTS>
+                                                        <DetalleTipoIPS SCOPEGROUP>CPE</DetalleTipoIPS SCOPEGROUP>
+                                                        <TOTAL>2024</TOTAL>
+                                                        <DISPONIBLES>163</DISPONIBLES>                               
+                                                    </DataIPS1></IPS><TrabajoProgramado><EnTrabajoProgramado>NOK</EnTrabajoProgramado></TrabajoProgramado><Masiva><EnMasiva>NOK</EnMasiva></Masiva><Alertado><EstaAlertado>NOK</EstaAlertado></Alertado></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:54:24 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@verifyHFCByIdClientResponse
+Descripcion del motivo de evento: Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:54:24 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><IDCliente>73</IDCliente><IPS><DisponibilidadIP>NOK</DisponibilidadIP><DataIPS1>
+                                                        <DetalleIPS CMTS>LIMMALCMTSC100G</DetalleIPS CMTS>
+                                                        <DetalleTipoIPS SCOPEGROUP>CPE</DetalleTipoIPS SCOPEGROUP>
+                                                        <TOTAL>2024</TOTAL>
+                                                        <DISPONIBLES>163</DISPONIBLES>                               
+                                                    </DataIPS1></IPS><TrabajoProgramado><EnTrabajoProgramado>NOK</EnTrabajoProgramado></TrabajoProgramado><Masiva><EnMasiva>NOK</EnMasiva></Masiva><Alertado><EstaAlertado>NOK</EstaAlertado></Alertado><INFORMACION>Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente</INFORMACION></RETURN></CLIENTE><INFORMACION>Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente</INFORMACION>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:54:58 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.5</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.10</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.5|USSNR|36.10|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:55:05 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202002. DEBE ENVIAR EL USUARIO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:55:11 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TESTa 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202016. ERROR DE VALIDACIÓN DE CREDENCIALES.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:55:19 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202019. DEBE ENVIAR LA MACADDRESS DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:55:23 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202018. MACADDRESS NO PUEDE SER CERO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:55:28 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 201923. EL FORMATO NO ES CORRECTO, NO SE ENCUENTRAN PUNTOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:55:37 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 201923. EL FORMATO NO ES CORRECTO, NO SE ENCUENTRAN PUNTOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:55:42 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 201924. EL FORMATO NO ES CORRECTO, FALTA UN PUNTO DE SEPARACION.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:55:51 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202003. MACADDRESS NO EXISTE EN LA BASE DE DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:55:58 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.6</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.80</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.6|USSNR|36.80|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:56:45 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>42.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>6.1</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>40.4</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>38.9</Valor>                               
+                                                    </Parametro4><Mensaje>0#USPWR|42.5|DSPWR|6.1|USSNR|40.4|DSSNR|38.9</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:58:14 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202002. DEBE ENVIAR EL USUARIO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:58:20 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST2 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202016. ERROR DE VALIDACIÓN DE CREDENCIALES.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:58:28 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202019. DEBE ENVIAR LA MACADDRESS DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:58:32 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202018. MACADDRESS NO PUEDE SER CERO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:58:39 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202025. DEBE ENVIAR LA ID DE SERVICIO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:58:44 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202024. ID DE SERVICIO NO PUEDE SER CERO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:58:51 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202023. ID DE SERVICIO TIENE QUE SER NUMERICO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:58:59 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202022. DEBE ENVIAR LA ID DEL PRODUCTO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:59:08 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202021. ID DEL PRODUCTO NO PUEDE SER CERO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:59:21 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201925. NO SE HA ENCONTRADO INFORMACION DE LOS DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 10:59:50 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>42.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>6</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>38.2</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>38.6</Valor>                               
+                                                    </Parametro4><Mensaje>0#USPWR|42.5|DSPWR|6|USSNR|38.2|DSSNR|38.6</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:03:42 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.6</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.80</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.6|USSNR|36.80|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:10:17 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.6</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.80</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.6|USSNR|36.80|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:13:04 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@verifyHFCByIdClientResponse
+Descripcion del motivo de evento: Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:13:05 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><IDCliente>73</IDCliente><IPS><DisponibilidadIP>NOK</DisponibilidadIP><DataIPS1>
+                                                        <DetalleIPS CMTS>LIMMALCMTSC100G</DetalleIPS CMTS>
+                                                        <DetalleTipoIPS SCOPEGROUP>CPE</DetalleTipoIPS SCOPEGROUP>
+                                                        <TOTAL>2024</TOTAL>
+                                                        <DISPONIBLES>164</DISPONIBLES>                               
+                                                    </DataIPS1></IPS><TrabajoProgramado><EnTrabajoProgramado>NOK</EnTrabajoProgramado></TrabajoProgramado><Masiva><EnMasiva>NOK</EnMasiva></Masiva><Alertado><EstaAlertado>NOK</EstaAlertado></Alertado><INFORMACION>Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente</INFORMACION></RETURN></CLIENTE><INFORMACION>Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente</INFORMACION>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:13:06 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@verifyHFCByIdClientResponse
+Descripcion del motivo de evento: Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:13:07 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><IDCliente>73</IDCliente><IPS><DisponibilidadIP>NOK</DisponibilidadIP><DataIPS1>
+                                                        <DetalleIPS CMTS>LIMMALCMTSC100G</DetalleIPS CMTS>
+                                                        <DetalleTipoIPS SCOPEGROUP>CPE</DetalleTipoIPS SCOPEGROUP>
+                                                        <TOTAL>2024</TOTAL>
+                                                        <DISPONIBLES>164</DISPONIBLES>                               
+                                                    </DataIPS1></IPS><TrabajoProgramado><EnTrabajoProgramado>NOK</EnTrabajoProgramado></TrabajoProgramado><Masiva><EnMasiva>NOK</EnMasiva></Masiva><Alertado><EstaAlertado>NOK</EstaAlertado></Alertado><INFORMACION>Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente</INFORMACION></RETURN></CLIENTE><INFORMACION>Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente</INFORMACION>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:13:11 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.6</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.80</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.6|USSNR|36.80|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:16:10 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@verifyHFCByIdClientResponse
+Descripcion del motivo de evento: Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:16:11 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><IDCliente>73</IDCliente><IPS><DisponibilidadIP>NOK</DisponibilidadIP><DataIPS1>
+                                                        <DetalleIPS CMTS>LIMMALCMTSC100G</DetalleIPS CMTS>
+                                                        <DetalleTipoIPS SCOPEGROUP>CPE</DetalleTipoIPS SCOPEGROUP>
+                                                        <TOTAL>2024</TOTAL>
+                                                        <DISPONIBLES>164</DISPONIBLES>                               
+                                                    </DataIPS1></IPS><TrabajoProgramado><EnTrabajoProgramado>NOK</EnTrabajoProgramado></TrabajoProgramado><Masiva><EnMasiva>NOK</EnMasiva></Masiva><Alertado><EstaAlertado>NOK</EstaAlertado></Alertado><INFORMACION>Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente</INFORMACION></RETURN></CLIENTE><INFORMACION>Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente</INFORMACION>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:16:13 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.6</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>24.30</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.6|USSNR|24.30|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:27:47 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.6</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>24.30</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.6|USSNR|24.30|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:32:18 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.6</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.00</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.6|USSNR|36.00|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:36:10 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.6</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.00</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.6|USSNR|36.00|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:36:27 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.6</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.00</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.6|USSNR|36.00|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:37:24 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202014. TOKEN INVÁLIDO. VERIFICAR O GENERAR UNO NUEVO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:42:10 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@verifyHFCByIdClientResponse
+Descripcion del motivo de evento: Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:42:10 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 202014. TOKEN INVÁLIDO. VERIFICAR O GENERAR UNO NUEVO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:42:15 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk3OTc3MzUsImV4cCI6MTU3OTgwMTMzNX0.4Y6nsyE3AeKIWs8D5L82elcuieQbyQ5TGw-NSE3CHQs
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:42:33 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@verifyHFCByIdClientResponse
+Descripcion del motivo de evento: Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 11:42:33 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><IDCliente>73</IDCliente><IPS><DisponibilidadIP>NOK</DisponibilidadIP><DataIPS1>
+                                                        <DetalleIPS CMTS>LIMMALCMTSC100G</DetalleIPS CMTS>
+                                                        <DetalleTipoIPS SCOPEGROUP>CPE</DetalleTipoIPS SCOPEGROUP>
+                                                        <TOTAL>2024</TOTAL>
+                                                        <DISPONIBLES>164</DISPONIBLES>                               
+                                                    </DataIPS1></IPS><TrabajoProgramado><EnTrabajoProgramado>NOK</EnTrabajoProgramado></TrabajoProgramado><Masiva><EnMasiva>NOK</EnMasiva></Masiva><Alertado><EstaAlertado>NOK</EstaAlertado></Alertado><INFORMACION>Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente</INFORMACION></RETURN></CLIENTE><INFORMACION>Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente</INFORMACION>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 14:02:30 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST2 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 201908. USUARIO NO EXISTE.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 14:44:18 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk4MDg2NTgsImV4cCI6MTU3OTgxMjI1OH0.bePyRL3GO9lQbgsKuZF0xmQ7n01iBNLKAQxhQw0BVTU
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:00:27 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202014. TOKEN INVÁLIDO. VERIFICAR O GENERAR UNO NUEVO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:01:09 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk4MTY4NjksImV4cCI6MTU3OTgyMDQ2OX0.5M6Z8EErP2KNAwPvzI4f_AnkPAL_Tm__wZ_WQG5-6gI
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:01:28 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@verifyHFCByIdClientResponse
+Descripcion del motivo de evento: Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:04:49 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk4MTcwODksImV4cCI6MTU3OTgyMDY4OX0.ZoxXE3sFqWLAfh3cuPOJvtIvezZdS49rSJiy10Lh0l8
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:07:44 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@verifyHFCByIdClientResponse
+Descripcion del motivo de evento: Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:08:56 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk4MTczMzYsImV4cCI6MTU3OTgyMDkzNn0.Fxvo14vK5qFd4i0nrrxtwGkaBSEVGsWE4jlGWmuTLdo
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:09:12 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@verifyHFCByIdClientResponse
+Descripcion del motivo de evento: Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:09:44 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk4MTczODQsImV4cCI6MTU3OTgyMDk4NH0.nZaE2tmLrGtzIK8k6lQPa9i7ietXDU1HyT-ceOJsGqY
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:09:55 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TESTabc 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 201908. USUARIO NO EXISTE.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:10:01 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 201909. PASSWORD ERRADO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:10:16 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.4</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.20</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.4|USSNR|36.20|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:10:48 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>43.3</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>6.8</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>39.1</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>39.3</Valor>                               
+                                                    </Parametro4><Mensaje>0#USPWR|43.3|DSPWR|6.8|USSNR|39.1|DSSNR|39.3</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:11:15 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: ERROR 201910. TOKEN INVALIDO DE USUARIO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:11:30 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk4MTc0OTAsImV4cCI6MTU3OTgyMTA5MH0.4LxDrBUUR63fo1JstwPm8V1HTZNMwSrtG4t2diOoF0w
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:12:22 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk4MTc1NDIsImV4cCI6MTU3OTgyMTE0Mn0._ir48CEAC77MeOLug9oUdYsfiQMjhl6v3pgyFqcUlIU
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:12:42 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.4</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.20</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.4|USSNR|36.20|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:13:07 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>43.3</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>6.9</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>40.4</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>39.3</Valor>                               
+                                                    </Parametro4><Mensaje>0#USPWR|43.3|DSPWR|6.9|USSNR|40.4|DSSNR|39.3</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:13:11 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.4</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.20</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.4|USSNR|36.20|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:13:29 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.3</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.00</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.3|USSNR|36.00|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:13:31 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.3</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.00</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.3|USSNR|36.00|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:13:50 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.3</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.00</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.3|USSNR|36.00|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:14:28 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk4MTc2NjgsImV4cCI6MTU3OTgyMTI2OH0.GjPF-ymoA8QHKT3Ha7T2Ng1YdOp5XYPfsLupgUsOBW4
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:14:41 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.3</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.00</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.3|USSNR|36.00|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:15:10 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>43.3</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>6.8</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>40.4</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>39.3</Valor>                               
+                                                    </Parametro4><Mensaje>0#USPWR|43.3|DSPWR|6.8|USSNR|40.4|DSSNR|39.3</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:15:14 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.3</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.00</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.3|USSNR|36.00|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:15:17 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.3</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.00</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.3|USSNR|36.00|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:16:00 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.3</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.00</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.3|USSNR|36.00|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:16:41 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.3</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.00</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.3|USSNR|36.00|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:16:45 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.3</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.00</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.3|USSNR|36.00|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:16:59 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.3</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.00</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.3|USSNR|36.00|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:17:19 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>43.3</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>6.8</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>37.4</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>39.3</Valor>                               
+                                                    </Parametro4><Mensaje>0#USPWR|43.3|DSPWR|6.8|USSNR|37.4|DSSNR|39.3</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:17:24 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.5</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>-1.3</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.00</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>44.60</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.5|DSPWR|-1.3|USSNR|36.00|DSSNR|44.60#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:41:53 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk4MTkzMTMsImV4cCI6MTU3OTgyMjkxM30.ZuvhvEje_QywIVdcBWLiXQmJ9Q2e4P23ai8s87qltNc
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-23 17:42:21 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><IDCliente>73</IDCliente><IPS><DisponibilidadIP>NOK</DisponibilidadIP><DataIPS1>
+                                                        <DetalleIPS CMTS>LIMMALCMTSC100G</DetalleIPS CMTS>
+                                                        <DetalleTipoIPS SCOPEGROUP>CPE</DetalleTipoIPS SCOPEGROUP>
+                                                        <TOTAL>2024</TOTAL>
+                                                        <DISPONIBLES>168</DISPONIBLES>                               
+                                                    </DataIPS1></IPS><TrabajoProgramado><EnTrabajoProgramado>OK</EnTrabajoProgramado><DataTP1>
+                                                          <DetalleTP NODO>WA</DetalleTP NODO>
+                                                          <DetalleTP TROBA>R051</DetalleTP TROBA>
+                                                          <Estado>PENDIENTE</Estado>
+                                                          <FechaInicio>2020-01-24 de 08:00 a 17:00</FechaInicio>
+                                                          <FechaCierre></FechaCierre>
+                                                          <FechaCancelada></FechaCancelada>
+                                                          <TipoTrabajoP>CALIBRACION HFC</TipoTrabajoP>                               
+                                                      </DataTP1></TrabajoProgramado><Masiva><EnMasiva>NOK</EnMasiva></Masiva><Alertado><EstaAlertado>NOK</EstaAlertado></Alertado></RETURN></CLIENTE>
+

@@ -1,0 +1,79 @@
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-24 08:54:21 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk4NzQwNjEsImV4cCI6MTU3OTg3NzY2MX0.nwA8fU3tlMqQd4IPVQ6sSRKpIY5UefDc3DnZ4e32cFY
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-24 09:40:15 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 202001. DEBE ENVIAR EL USUARIO Y PASSWORD DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-24 09:40:26 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 202026. DEBE ENVIAR EL CONTENT-TYPE DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-24 09:40:38 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk4NzY4MzgsImV4cCI6MTU3OTg4MDQzOH0.UJEBcd8Oacb0hHe3_wvJ3Zc-nWSIxyVFGBEhKWrhB84
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-24 09:40:55 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@getInfoEstadoServicioHFCxCliente
+Descripcion del motivo de evento: <CLIENTE><RETURN><IDCliente>73</IDCliente><IPS><DisponibilidadIP>NOK</DisponibilidadIP><DataIPS1>
+                                                        <DetalleIPS CMTS>LIMMALCMTSC100G</DetalleIPS CMTS>
+                                                        <DetalleTipoIPS SCOPEGROUP>CPE</DetalleTipoIPS SCOPEGROUP>
+                                                        <TOTAL>2024</TOTAL>
+                                                        <DISPONIBLES>170</DISPONIBLES>                               
+                                                    </DataIPS1></IPS><TrabajoProgramado><EnTrabajoProgramado>OK</EnTrabajoProgramado><DataTP1>
+                                                          <DetalleTP NODO>WA</DetalleTP NODO>
+                                                          <DetalleTP TROBA>R051</DetalleTP TROBA>
+                                                          <Estado>PENDIENTE</Estado>
+                                                          <FechaInicio>2020-01-24 de 08:00 a 17:00</FechaInicio>
+                                                          <FechaCierre></FechaCierre>
+                                                          <FechaCancelada></FechaCancelada>
+                                                          <TipoTrabajoP>CALIBRACION HFC</TipoTrabajoP>                               
+                                                      </DataTP1></TrabajoProgramado><Masiva><EnMasiva>NOK</EnMasiva></Masiva><Alertado><EstaAlertado>NOK</EstaAlertado></Alertado></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-24 10:04:22 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: 
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk4NzgyNjIsImV4cCI6MTU3OTg4MTg2Mn0.hwXXXVCutTIbOtYMdx8lpLfB83y2Q1h5lVaAGqfH4XY
+

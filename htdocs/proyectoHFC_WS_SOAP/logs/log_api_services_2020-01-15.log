@@ -1,0 +1,234 @@
+[2020-01-15 08:09:16] IP:::ffff:190.234.74.9 SOAP@Authentication 
+ Respuesta: Los valores de username y password son obligatorios 
+
+[2020-01-15 08:09:26] IP:::ffff:190.234.74.9 Usuario:TEST123 SOAP@Authentication 
+ Respuesta: "Usuario no existe" 
+
+[2020-01-15 08:09:47] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkwOTM3ODcsImV4cCI6MTU3OTA5NzM4N30.4zFkXCvejiM96E3MIZ3kL90vRxD-oI-OG8HT5ls9Rx4 
+
+[2020-01-15 08:13:46] IP:::ffff:190.234.74.9 SOAP@Authentication 
+ Respuesta: Los valores de username y password son obligatorios 
+
+[2020-01-15 08:14:07] IP:::ffff:190.234.74.9 Usuario:TEST123 SOAP@Authentication 
+ Respuesta: "Usuario no existe" 
+
+[2020-01-15 08:14:14] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkwOTQwNTQsImV4cCI6MTU3OTA5NzY1NH0.mGPlk6glAS4bdpoS1vDbAEcAXhJaqOkUarEhvFSg3Mg 
+
+[2020-01-15 08:24:32] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkwOTQ2NzIsImV4cCI6MTU3OTA5ODI3Mn0.8XhVqETNCzgKAuK5xdGeqlBfQsoPLMX9s7wKT_vcwjM 
+
+[2020-01-15 08:27:32] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkwOTQ4NTIsImV4cCI6MTU3OTA5ODQ1Mn0.7LYQUKEzUrahfroEy8VRPdl47htmlaQIXNzrsxwuEME 
+
+[2020-01-15 08:28:07] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkwOTQ4ODcsImV4cCI6MTU3OTA5ODQ4N30.vZG_9FFSeLEeT8mjX8H8nbo9JZtGqQ1WiZgEituV9Ig 
+
+[2020-01-15 08:30:44] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkwOTUwNDQsImV4cCI6MTU3OTA5ODY0NH0.du00sUdqkemc8-V1zS_hXo4QJNdduGNFjY-kfET5Zho 
+
+[2020-01-15 08:31:40] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkwOTUxMDAsImV4cCI6MTU3OTA5ODcwMH0.7abujA6h2wcMcPqvN0wCrAVEUDB5ahA5Xk92rQCzGus 
+
+[2020-01-15 08:36:50] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkwOTU0MTAsImV4cCI6MTU3OTA5OTAxMH0.uK4gTDvBETCiByKpRjqFr0z9tAfZPSNUt3rv4n_OReY 
+
+[2020-01-15 08:39:01] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkwOTU1NDEsImV4cCI6MTU3OTA5OTE0MX0.OBK3bki-foOaCaOs4n6f2oa0YQnvYaXTAiVUAv4_xWw 
+
+[2020-01-15 08:52:54] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkwOTYzNzQsImV4cCI6MTU3OTA5OTk3NH0.paoHkZb2zvN0Lt2k14met_H2r03nZhKzO3ArUeiD_pA 
+
+[2020-01-15 08:52:54] IP:::ffff:190.234.74.9 SOAP@Authentication 
+ Respuesta: Revisar la consulta que guarda los datos a la base de datos 
+
+[2020-01-15 08:57:24] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkwOTY2NDQsImV4cCI6MTU3OTEwMDI0NH0.bIefVWjyK9_4CNQhLqIn4PGmQTU4f0HzFrZPI5ZYJU0 
+
+[2020-01-15 08:57:56] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkwOTY2NzYsImV4cCI6MTU3OTEwMDI3Nn0.Wu6LcLeG2lCAqaakGmGHYnHTsFTCXBwN9SZEQqYDo6E 
+
+[2020-01-15 08:59:37] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkwOTY3NzcsImV4cCI6MTU3OTEwMDM3N30.TBjP7vBxnqG77igN_cqY0qYkGjqm1z_SDMqFTGxIIdQ 
+
+[2020-01-15 09:00:39] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkwOTY4MzksImV4cCI6MTU3OTEwMDQzOX0.UrSi_PgFIfUldFvJqIa5v46STM1KiOoT2PsIySPErZ0 
+
+[2020-01-15 09:00:39] IP:::ffff:190.234.74.9 SOAP@Authentication 
+ Respuesta: No se guardo correctamente, se recomienda revisar la consulta que registra los datos a la base de datos 
+
+[2020-01-15 09:02:21] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkwOTY5NDEsImV4cCI6MTU3OTEwMDU0MX0.uVYw85Ijw80gu76NjPJjv0cyTZighMFvq-u3DHXNF1Q 
+
+[2020-01-15 09:04:05] IP:::ffff:190.234.74.9 Usuario: SOAP@getInfoEstadoServicioHFCxCliente 
+ Respuesta: El valor de nombreUsuario es obligatoria 
+
+[2020-01-15 09:05:31] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoEstadoServicioHFCxCliente 
+ Respuesta: El valor de idCliente es obligatoria 
+
+[2020-01-15 09:06:41] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoEstadoServicioHFCxCliente 
+ Respuesta: El valor de idCliente no puede ser cero 
+
+[2020-01-15 09:09:04] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoEstadoServicioHFCxCliente 
+ Respuesta: El valor de idCliente es obligatoria 
+
+[2020-01-15 09:11:54] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoEstadoServicioHFCxCliente 
+ Respuesta: El valor de idCliente es obligatoria 
+
+[2020-01-15 09:13:01] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoEstadoServicioHFCxCliente 
+ Respuesta: El valor de idCliente es obligatoria 
+
+[2020-01-15 09:13:06] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoEstadoServicioHFCxCliente 
+ Respuesta: El valor de idCliente es obligatoria 
+
+[2020-01-15 09:13:19] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: El valor del id del cliente es obligatorio 
+
+[2020-01-15 09:13:26] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: El valor del id del cliente no puede ser cero 
+
+[2020-01-15 09:21:20] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: El valor del id del cliente no puede ser cero 
+
+[2020-01-15 09:21:24] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: "" 
+
+[2020-01-15 09:21:43] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: El valor del id del cliente es obligatorio 
+
+[2020-01-15 09:26:54] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: "" 
+
+[2020-01-15 09:27:44] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: "" 
+
+[2020-01-15 09:31:22] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: El valor del id del cliente es obligatorio 
+
+[2020-01-15 09:31:30] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: El valor del id del cliente no puede ser cero 
+
+[2020-01-15 09:31:35] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: El valor del id del cliente es obligatorio 
+
+[2020-01-15 09:31:47] IP:::ffff:190.234.74.9 Usuario: SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: El nombre de usuario es obligatorio 
+
+[2020-01-15 09:31:54] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: El valor del id del cliente es obligatorio 
+
+[2020-01-15 09:32:01] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: El valor del id del cliente no puede ser cero 
+
+[2020-01-15 09:32:07] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: El valor del id del cliente es obligatorio 
+
+[2020-01-15 09:41:46] IP:::ffff:190.234.74.9 Usuario: SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: El nombre de usuario es obligatorio 
+
+[2020-01-15 09:41:52] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: El valor del id del cliente es obligatorio 
+
+[2020-01-15 09:41:57] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: El valor del id del cliente no puede ser cero 
+
+[2020-01-15 09:42:03] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: El valor del id del cliente es obligatorio 
+
+[2020-01-15 09:42:49] IP:::ffff:190.234.74.9 Usuario:TEST123 SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: El token o usuario no se encuentran en la base de datos 
+
+[2020-01-15 09:48:30] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: Revisar el sql que realiza la consulta a la base de datos 
+
+[2020-01-15 09:48:30] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: El token o usuario no se encuentran en la base de datos 
+
+[2020-01-15 09:49:25] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: Revisar el sql que realiza la consulta a la base de datos 
+
+[2020-01-15 09:49:25] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: El token o usuario no se encuentran en la base de datos 
+
+[2020-01-15 09:55:56] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: "<SERVICIO1>\n                                                      <Cmts>MALA1</Cmts>\n                                                      <Nodo>ZS</Nodo>\n                                                      <Troba>R001</Troba>\n                                                      <ServicePackage>200M</ServicePackage>\n                                                      <Ussnr>42.1</Ussnr>\n                                                      <Dssnr>34.6</Dssnr>\n                                                      <IpCm>10.107.16.44</IpCm>\n                                                      <MacAddress>ec:0e:c4:77:cc:89</MacAddress>\n                                                      <Fabricante>Ubee</Fabricante>\n                                                      <Modelo>DVW32E</Modelo>\n                                                      <Firmware>9.36.2005r</Firmware>\n                                                      <IspCpe>CPE</IspCpe>\n                                                      <EstadoModem>Activo</EstadoModem>\n                                                      <PowerUp>50.3</PowerUp>\n                                                      <PowerDown>-1.1</PowerDown>\n                                                      <MACState>online</MACState>\n                                                      <Mensaje></Mensaje>                                \n                                                  </SERVICIO1><SERVICIO2>\n                                                      <Cmts>ZARATE2</Cmts>\n                                                      <Nodo>HN</Nodo>\n                                                      <Troba>R001</Troba>\n                                                      <ServicePackage>1M</ServicePackage>\n                                                      <Ussnr>42.1</Ussnr>\n                                                      <Dssnr>37.5</Dssnr>\n                                                      <IpCm>10.164.47.171</IpCm>\n                                                      <MacAddress>08:6a:0a:60:e5:ce</MacAddress>\n                                                      <Fabricante>Askey</Fabricante>\n                                                      <Modelo>TCG220-TdP</Modelo>\n                                                      <Firmware>D21A.UUN04.C12.190617.02</Firmware>\n                                                      <IspCpe>CGNAT</IspCpe>\n                                                      <EstadoModem>Activo</EstadoModem>\n                                                      <PowerUp>57.0</PowerUp>\n                                                      <PowerDown>-9.8</PowerDown>\n                                                      <MACState>online</MACState>\n                                                      <Mensaje>Probable averia en:Red Cliente</Mensaje>                                \n                                                  </SERVICIO2><SERVICIO3>\n                                                      <Cmts>SAN ISIDRO1</Cmts>\n                                                      <Nodo>SI</Nodo>\n                                                      <Troba>R083</Troba>\n                                                      <ServicePackage>40M</ServicePackage>\n                                                      <Ussnr>35.6</Ussnr>\n                                                      <Dssnr>43.9</Dssnr>\n                                                      <IpCm>10.154.36.200</IpCm>\n                                                      <MacAddress>b4:ee:b4:7e:39:64</MacAddress>\n                                                      <Fabricante>Askey</Fabricante>\n                                                      <Modelo>TCG220-TdP</Modelo>\n                                                      <Firmware>D21A.UUN04.C12.190617.02</Firmware>\n                                                      <IspCpe>CPE</IspCpe>\n                                                      <EstadoModem>Activo</EstadoModem>\n                                                      <PowerUp>45.8</PowerUp>\n                                                      <PowerDown>1.4</PowerDown>\n                                                      <MACState>online</MACState>\n                                                      <Mensaje></Mensaje>                                \n                                                  </SERVICIO3>" 
+
+[2020-01-15 09:58:51] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: "<SERVICIO1>\n                                                      <Cmts>MALA1</Cmts>\n                                                      <Nodo>ZS</Nodo>\n                                                      <Troba>R001</Troba>\n                                                      <ServicePackage>200M</ServicePackage>\n                                                      <Ussnr>42.1</Ussnr>\n                                                      <Dssnr>34.5</Dssnr>\n                                                      <IpCm>10.107.16.44</IpCm>\n                                                      <MacAddress>ec:0e:c4:77:cc:89</MacAddress>\n                                                      <Fabricante>Ubee</Fabricante>\n                                                      <Modelo>DVW32E</Modelo>\n                                                      <Firmware>9.36.2005r</Firmware>\n                                                      <IspCpe>CPE</IspCpe>\n                                                      <EstadoModem>Activo</EstadoModem>\n                                                      <PowerUp>50.3</PowerUp>\n                                                      <PowerDown>-1.1</PowerDown>\n                                                      <MACState>online</MACState>\n                                                      <Mensaje></Mensaje>                                \n                                                  </SERVICIO1><SERVICIO2>\n                                                      <Cmts>ZARATE2</Cmts>\n                                                      <Nodo>HN</Nodo>\n                                                      <Troba>R001</Troba>\n                                                      <ServicePackage>1M</ServicePackage>\n                                                      <Ussnr>42.1</Ussnr>\n                                                      <Dssnr>37.5</Dssnr>\n                                                      <IpCm>10.164.47.171</IpCm>\n                                                      <MacAddress>08:6a:0a:60:e5:ce</MacAddress>\n                                                      <Fabricante>Askey</Fabricante>\n                                                      <Modelo>TCG220-TdP</Modelo>\n                                                      <Firmware>D21A.UUN04.C12.190617.02</Firmware>\n                                                      <IspCpe>CGNAT</IspCpe>\n                                                      <EstadoModem>Activo</EstadoModem>\n                                                      <PowerUp>57.0</PowerUp>\n                                                      <PowerDown>-9.8</PowerDown>\n                                                      <MACState>online</MACState>\n                                                      <Mensaje>Probable averia en:Red Cliente</Mensaje>                                \n                                                  </SERVICIO2><SERVICIO3>\n                                                      <Cmts>SAN ISIDRO1</Cmts>\n                                                      <Nodo>SI</Nodo>\n                                                      <Troba>R083</Troba>\n                                                      <ServicePackage>40M</ServicePackage>\n                                                      <Ussnr>36.7</Ussnr>\n                                                      <Dssnr>43.9</Dssnr>\n                                                      <IpCm>10.154.36.200</IpCm>\n                                                      <MacAddress>b4:ee:b4:7e:39:64</MacAddress>\n                                                      <Fabricante>Askey</Fabricante>\n                                                      <Modelo>TCG220-TdP</Modelo>\n                                                      <Firmware>D21A.UUN04.C12.190617.02</Firmware>\n                                                      <IspCpe>CPE</IspCpe>\n                                                      <EstadoModem>Activo</EstadoModem>\n                                                      <PowerUp>45.8</PowerUp>\n                                                      <PowerDown>1.4</PowerDown>\n                                                      <MACState>online</MACState>\n                                                      <Mensaje></Mensaje>                                \n                                                  </SERVICIO3>" 
+
+[2020-01-15 10:01:49] IP:::ffff:190.234.74.9 SOAP@multiconsultaIdCliente 
+ Respuesta: Método Obsoleto, usar el metodo getInfoBasicaServicioHFCxCliente 
+
+[2020-01-15 10:01:52] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: "<SERVICIO1>\n                                                      <Cmts>MALA1</Cmts>\n                                                      <Nodo>ZS</Nodo>\n                                                      <Troba>R001</Troba>\n                                                      <ServicePackage>200M</ServicePackage>\n                                                      <Ussnr>42.1</Ussnr>\n                                                      <Dssnr>34.5</Dssnr>\n                                                      <IpCm>10.107.16.44</IpCm>\n                                                      <MacAddress>ec:0e:c4:77:cc:89</MacAddress>\n                                                      <Fabricante>Ubee</Fabricante>\n                                                      <Modelo>DVW32E</Modelo>\n                                                      <Firmware>9.36.2005r</Firmware>\n                                                      <IspCpe>CPE</IspCpe>\n                                                      <EstadoModem>Activo</EstadoModem>\n                                                      <PowerUp>50.3</PowerUp>\n                                                      <PowerDown>-1.1</PowerDown>\n                                                      <MACState>online</MACState>\n                                                      <Mensaje></Mensaje>                                \n                                                  </SERVICIO1><SERVICIO2>\n                                                      <Cmts>ZARATE2</Cmts>\n                                                      <Nodo>HN</Nodo>\n                                                      <Troba>R001</Troba>\n                                                      <ServicePackage>1M</ServicePackage>\n                                                      <Ussnr>42.1</Ussnr>\n                                                      <Dssnr>37.5</Dssnr>\n                                                      <IpCm>10.164.47.171</IpCm>\n                                                      <MacAddress>08:6a:0a:60:e5:ce</MacAddress>\n                                                      <Fabricante>Askey</Fabricante>\n                                                      <Modelo>TCG220-TdP</Modelo>\n                                                      <Firmware>D21A.UUN04.C12.190617.02</Firmware>\n                                                      <IspCpe>CGNAT</IspCpe>\n                                                      <EstadoModem>Activo</EstadoModem>\n                                                      <PowerUp>57.0</PowerUp>\n                                                      <PowerDown>-9.8</PowerDown>\n                                                      <MACState>online</MACState>\n                                                      <Mensaje>Probable averia en:Red Cliente</Mensaje>                                \n                                                  </SERVICIO2><SERVICIO3>\n                                                      <Cmts>SAN ISIDRO1</Cmts>\n                                                      <Nodo>SI</Nodo>\n                                                      <Troba>R083</Troba>\n                                                      <ServicePackage>40M</ServicePackage>\n                                                      <Ussnr>36.7</Ussnr>\n                                                      <Dssnr>43.9</Dssnr>\n                                                      <IpCm>10.154.36.200</IpCm>\n                                                      <MacAddress>b4:ee:b4:7e:39:64</MacAddress>\n                                                      <Fabricante>Askey</Fabricante>\n                                                      <Modelo>TCG220-TdP</Modelo>\n                                                      <Firmware>D21A.UUN04.C12.190617.02</Firmware>\n                                                      <IspCpe>CPE</IspCpe>\n                                                      <EstadoModem>Activo</EstadoModem>\n                                                      <PowerUp>45.8</PowerUp>\n                                                      <PowerDown>1.4</PowerDown>\n                                                      <MACState>online</MACState>\n                                                      <Mensaje></Mensaje>                                \n                                                  </SERVICIO3><INFORMACION>Método Obsoleto, usar el metodo getInfoBasicaServicioHFCxCliente</INFORMACION>" 
+
+[2020-01-15 14:48:15] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkxMTc2OTUsImV4cCI6MTU3OTEyMTI5NX0.mBiTvz5hTEpJvE81iVTii2EeAh0edDbm72gYyZ5tz84 
+
+[2020-01-15 15:12:42] IP:::ffff:190.234.74.9 SOAP@Authentication 
+ Respuesta: Los valores de username y password son obligatorios 
+
+[2020-01-15 15:13:20] IP:::ffff:190.234.74.9 SOAP@Authentication 
+ Respuesta: Los valores de username y password son obligatorios 
+
+[2020-01-15 15:25:20] IP:::ffff:190.234.74.9 SOAP@multiconsultaIdCliente 
+ Respuesta: Método Obsoleto, usar el metodo getInfoBasicaServicioHFCxCliente 
+
+[2020-01-15 15:25:20] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: Toket inválido - Generar un nuevo token 
+
+[2020-01-15 15:25:26] IP:::ffff:190.234.74.9 SOAP@multiconsultaIdCliente 
+ Respuesta: Método Obsoleto, usar el metodo getInfoBasicaServicioHFCxCliente 
+
+[2020-01-15 15:25:26] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: Toket inválido - Generar un nuevo token 
+
+[2020-01-15 15:53:28] IP:::ffff:190.234.74.9 SOAP@Authentication 
+ Respuesta: Los valores de username y password son obligatorios 
+
+[2020-01-15 15:57:43] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkxMjE4NjMsImV4cCI6MTU3OTEyNTQ2M30.rMU_DSMOK_9MqILGN778E7xkCDWRmFQ5fYd5NjCatb8 
+
+[2020-01-15 16:35:16] IP:::ffff:190.234.74.9 SOAP@Authentication 
+ Respuesta: Los valores de username y password son obligatorios 
+
+[2020-01-15 16:57:50] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkxMjU0NzAsImV4cCI6MTU3OTEyOTA3MH0.t6zNWJBQnZy8Gw4kPR7H_acQNH180FSpLWQeoWFVTt4 
+
+[2020-01-15 16:58:14] IP:::ffff:190.234.74.9 SOAP@multiconsultaIdCliente 
+ Respuesta: Método Obsoleto, usar el metodo getInfoBasicaServicioHFCxCliente 
+
+[2020-01-15 17:00:17] IP:::ffff:190.234.74.9 SOAP@multiconsultaIdCliente 
+ Respuesta: Método Obsoleto, usar el metodo getInfoBasicaServicioHFCxCliente 
+
+[2020-01-15 17:32:37] IP:::ffff:190.234.74.9 SOAP@Authentication 
+ Respuesta: Los valores de username y password son obligatorios 
+
+[2020-01-15 17:32:44] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkxMjc1NjQsImV4cCI6MTU3OTEzMTE2NH0.UUrRvH7OrXxUcqPlULBBFwhCxMlpAOGL1J8EMXafqZw 
+
+[2020-01-15 17:33:24] IP:::ffff:190.234.74.9 SOAP@multiconsultaIdCliente 
+ Respuesta: Método Obsoleto, usar el metodo getInfoBasicaServicioHFCxCliente 
+
+[2020-01-15 17:33:50] IP:::ffff:190.234.74.9 SOAP@verifyHFCByIdClientResponse 
+ Respuesta: Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente 
+
+[2020-01-15 17:46:45] IP:::ffff:190.234.74.9 SOAP@verifyHFCByIdClientResponse 
+ Respuesta: Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente 
+
+[2020-01-15 17:46:45] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoEstadoServicioHFCxCliente 
+ Respuesta: ERROR 201910. TOKEN INVALIDO DE USUARIO. 
+
+[2020-01-15 17:46:59] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1NzkxMjg0MTksImV4cCI6MTU3OTEzMjAxOX0.C0Os6JDmybJn-fiMkB-cDvy-WR8sE0gqtyolRFrvsw4 
+
+[2020-01-15 17:47:17] IP:::ffff:190.234.74.9 SOAP@verifyHFCByIdClientResponse 
+ Respuesta: Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente 
+
+[2020-01-15 17:49:00] IP:::ffff:190.234.74.9 SOAP@verifyHFCByIdClientResponse 
+ Respuesta: Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente 
+
+[2020-01-15 17:49:00] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoEstadoServicioHFCxCliente 
+ Respuesta: "<CLIENTE><RETURN><IDCliente>73</IDCliente><IPS><DisponibilidadIP>NOK</DisponibilidadIP><DataIPS1>\n                                                        <DetalleIPS CMTS>LIMMALCMTSC100G</DetalleIPS CMTS>\n                                                        <DetalleTipoIPS SCOPEGROUP>CPE</DetalleTipoIPS SCOPEGROUP>\n                                                        <TOTAL>2024</TOTAL>\n                                                        <DISPONIBLES>180</DISPONIBLES>                               \n                                                    </DataIPS1></IPS><TrabajoProgramado><EnTrabajoProgramado>NOK</EnTrabajoProgramado></TrabajoProgramado><Masiva><EnMasiva>NOK</EnMasiva></Masiva><Alertado><EstaAlertado>NOK</EstaAlertado></Alertado><INFORMACION>Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente</INFORMACION></RETURN></CLIENTE><INFORMACION>Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente</INFORMACION>" 
+

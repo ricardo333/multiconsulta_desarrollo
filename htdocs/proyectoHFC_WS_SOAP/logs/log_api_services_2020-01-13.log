@@ -1,0 +1,94 @@
+2020-01-13 16:26:02 Metodo: multiconsultaIdCliente
+2020-01-13 16:26:02 Usuario: TEST idCliente: 73 Metodo: getInfoEstadoServicioHFCxCliente
+2020-01-13 16:28:32 Usuario: TEST idCliente: 73 Metodo: getInfoBasicaServicioHFCxCliente
+2020-01-13 16:37:57 Usuario: TEST idCliente: 73 Metodo: getInfoBasicaServicioHFCxCliente
+[2020-01-13 16:49:26] info: ip SOAP@Los valores de Username y Password son obligatorios
+[2020-01-13 16:54:18] info: ip SOAP@Los valores de Username y Password son obligatorios::ffff:190.234.74.9
+[2020-01-13 17:26:14] info:::ffff:190.234.74.9 SOAP@Authentication Los valores de Username y Password son obligatorios
+[2020-01-13 17:40:00] info:::ffff:190.234.74.9 SOAP@Authenticatione Error:Los valores de Username y Password son obligatorios
+[2020-01-13 17:44:26] info:::ffff:190.234.74.9 SOAP@Authentication respuesta:Los valores de Username y Password son obligatorios
+[2020-01-13 17:47:26] info:::ffff:190.234.74.9 SOAP@Authentication 
+ Response:[object Object]
+[2020-01-13 17:52:10] info:::ffff:190.234.74.9 SOAP@Authentication 
+ respuesta:Los valores de Username y Password son obligatorios 
+
+[2020-01-13 17:54:08] info:::ffff:190.234.74.9 SOAP@Authentication 
+ Respuesta: Los valores de Username y Password son obligatorios 
+
+[2020-01-13 17:55:21] IP:::ffff:190.234.74.9 SOAP@Authentication 
+ Respuesta: Los valores de Username y Password son obligatorios 
+
+[2020-01-13 18:19:11] IP:::ffff:190.234.74.9 SOAP@Authentication 
+ Respuesta: Los valores de Username y Password son obligatorios 
+
+[2020-01-13 18:19:45] IP:::ffff:190.234.74.9 SOAP@Authentication 
+ Respuesta: Los valores de Username y Password son obligatorios 
+
+[2020-01-13 18:28:27] IP:::ffff:190.234.74.9 SOAP@Authentication 
+ Respuesta: Los valores de Username y Password son obligatorios 
+
+[2020-01-13 18:29:14] IP:::ffff:190.234.74.9 Usuario:TEST123 SOAP@Authentication 
+ Respuesta: "Usuario no existe" 
+
+[2020-01-13 18:40:41] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: {"token":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzg5NTg4NDAsImV4cCI6MTU3ODk2MjQ0MH0.wB6OJCXvfawPuSyN5Jg2ooWRm9C3AHvvQiW-tRbdIvE"} 
+
+[2020-01-13 18:44:59] IP:::ffff:190.234.74.9 Usuario:TEST123 SOAP@Authentication 
+ Respuesta: {"error":"Usuario no existe"} 
+
+[2020-01-13 19:30:15] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@Authentication 
+ Respuesta: {"token":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzg5NjE4MTUsImV4cCI6MTU3ODk2NTQxNX0.tQ2jz6k5Cpnt14TaWd_K-Jp8ImLlhTesh6qQKGPs2bw"} 
+
+[2020-01-13 19:30:55] IP:Usuario: TEST idCliente: 73 Metodo: getInfoBasicaServicioHFCxCliente
+[2020-01-13 19:31:54] IP:::ffff:190.234.74.9 Usuario: SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: {"error":"El valor de nombreUsuario es obligatoria"} 
+
+[2020-01-13 19:37:03] IP:::ffff:190.234.74.9 Usuario:TEST123 SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: {"error":"El token o usuario ingresado no se encuentran en la base de datos"} 
+
+[2020-01-13 19:40:59] IP:Usuario: TEST idCliente: 73 Metodo: getInfoBasicaServicioHFCxCliente
+[2020-01-13 19:42:58] IP:Usuario: TEST idCliente: 73 Metodo: getInfoBasicaServicioHFCxCliente
+[2020-01-13 19:42:59] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: {"mensaje":{"Servicio1":{"Cmts":"MALA1","Nodo":"ZS","Troba":"R001","ServicePackage":"200M","Ussnr":"42.1","Dssnr":"35.3","IpCm":"10.107.16.44","MacAddress":"ec:0e:c4:77:cc:89","Fabricante":"Ubee","Modelo":"DVW32E","Firmware":"9.36.2005r","IspCpe":"CPE","EstadoModem":"Activo","PowerUp":"50.3","PowerDown":"-1.3","MACState":"online","Mensaje":""},"Servicio2":{"Cmts":"ZARATE2","Nodo":"HN","Troba":"R001","ServicePackage":"1M","Ussnr":"40.4","Dssnr":"37.8","IpCm":"10.164.47.171","MacAddress":"08:6a:0a:60:e5:ce","Fabricante":"Askey","Modelo":"TCG220-TdP","Firmware":"D21A.UUN04.C12.190617.02","IspCpe":"CGNAT","EstadoModem":"Activo","PowerUp":"57.0","PowerDown":"-9.3","MACState":"online","Mensaje":"Probable averia en:Red Cliente"},"Servicio3":{"Cmts":"SAN ISIDRO1","Nodo":"SI","Troba":"R083","ServicePackage":"40M","Ussnr":"34.7","Dssnr":"38.2","IpCm":"10.154.36.200","MacAddress":"b4:ee:b4:7e:39:64","Fabricante":"Askey","Modelo":"TCG220-TdP","Firmware":"D21A.UUN04.C12.190617.02","IspCpe":"CPE","EstadoModem":"Activo","PowerUp":"45.0","PowerDown":"2.7","MACState":"online","Mensaje":""}}} 
+
+[2020-01-13 19:56:48] IP:Usuario: TEST idCliente: 73 Metodo: getInfoEstadoServicioHFCxCliente
+[2020-01-13 19:56:48] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoEstadoServicioHFCxCliente 
+ Respuesta: {"mensaje":{"IPS":{"DisponibilidadIP":"NOK","DetalleIPS CMTS":"LIMMALCMTSC100G","DetalleIPS SCOPEGROUP":"CPE","TOTAL":"2024","DISPONIBLES":"159"},"TrabajoProgramado":{"EnTrabajoProgramado":"NOK"},"Masiva":{"EnMasiva":"NOK"},"Alertado":{"EstaAlertado":"NOK"}}} 
+
+[2020-01-13 19:58:46] IP:Metodo: multiconsultaIdCliente
+[2020-01-13 19:58:47] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: {"mensaje":{"Servicio1":{"Cmts":"MALA1","Nodo":"ZS","Troba":"R001","ServicePackage":"200M","Ussnr":"42.1","Dssnr":"35.3","IpCm":"10.107.16.44","MacAddress":"ec:0e:c4:77:cc:89","Fabricante":"Ubee","Modelo":"DVW32E","Firmware":"9.36.2005r","IspCpe":"CPE","EstadoModem":"Activo","PowerUp":"50.3","PowerDown":"-1.3","MACState":"online","Mensaje":""},"Servicio2":{"Cmts":"ZARATE2","Nodo":"HN","Troba":"R001","ServicePackage":"1M","Ussnr":"40.4","Dssnr":"37.8","IpCm":"10.164.47.171","MacAddress":"08:6a:0a:60:e5:ce","Fabricante":"Askey","Modelo":"TCG220-TdP","Firmware":"D21A.UUN04.C12.190617.02","IspCpe":"CGNAT","EstadoModem":"Activo","PowerUp":"57.0","PowerDown":"-9.2","MACState":"online","Mensaje":"Probable averia en:Red Cliente"},"Servicio3":{"Cmts":"SAN ISIDRO1","Nodo":"SI","Troba":"R083","ServicePackage":"40M","Ussnr":"35.1","Dssnr":"38.2","IpCm":"10.154.36.200","MacAddress":"b4:ee:b4:7e:39:64","Fabricante":"Askey","Modelo":"TCG220-TdP","Firmware":"D21A.UUN04.C12.190617.02","IspCpe":"CPE","EstadoModem":"Activo","PowerUp":"45.0","PowerDown":"2.7","MACState":"online","Mensaje":""}},"INFORMACION":"Método Obsoleto, usar el metodo getInfoBasicaServicioHFCxCliente"} 
+
+[2020-01-13 20:05:05] IP:::ffff:190.234.74.9 SOAP@multiconsultaIdCliente 
+ Respuesta: {"informacion":"Método Obsoleto, usar el metodo getInfoBasicaServicioHFCxCliente"} 
+
+[2020-01-13 20:06:45] IP:::ffff:190.234.74.9 SOAP@multiconsultaIdCliente 
+ Respuesta: {"message":"Método Obsoleto, usar el metodo getInfoBasicaServicioHFCxCliente"} 
+
+[2020-01-13 20:07:29] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: {"mensaje":{"Servicio1":{"Cmts":"SAN ISIDRO1","Nodo":"SI","Troba":"R083","ServicePackage":"40M","Ussnr":"35.1","Dssnr":"38.2","IpCm":"10.154.36.200","MacAddress":"b4:ee:b4:7e:39:64","Fabricante":"Askey","Modelo":"TCG220-TdP","Firmware":"D21A.UUN04.C12.190617.02","IspCpe":"CPE","EstadoModem":"Activo","PowerUp":"45.0","PowerDown":"2.7","MACState":"online","Mensaje":""},"Servicio2":{"Cmts":"ZARATE2","Nodo":"HN","Troba":"R001","ServicePackage":"1M","Ussnr":"40.4","Dssnr":"37.8","IpCm":"10.164.47.171","MacAddress":"08:6a:0a:60:e5:ce","Fabricante":"Askey","Modelo":"TCG220-TdP","Firmware":"D21A.UUN04.C12.190617.02","IspCpe":"CGNAT","EstadoModem":"Activo","PowerUp":"57.0","PowerDown":"-9.2","MACState":"online","Mensaje":"Probable averia en:Red Cliente"},"Servicio3":{"Cmts":"MALA1","Nodo":"ZS","Troba":"R001","ServicePackage":"200M","Ussnr":"42.1","Dssnr":"35.3","IpCm":"10.107.16.44","MacAddress":"ec:0e:c4:77:cc:89","Fabricante":"Ubee","Modelo":"DVW32E","Firmware":"9.36.2005r","IspCpe":"CPE","EstadoModem":"Activo","PowerUp":"50.3","PowerDown":"-1.3","MACState":"online","Mensaje":""}},"INFORMACION":"Método Obsoleto, usar el metodo getInfoBasicaServicioHFCxCliente"} 
+
+[2020-01-13 20:08:02] IP:Metodo: multiconsultaIdCliente
+[2020-01-13 20:10:00] IP:Metodo: multiconsultaIdCliente
+[2020-01-13 20:11:05] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: {"mensaje":{"Servicio1":{"Cmts":"SAN ISIDRO1","Nodo":"SI","Troba":"R083","ServicePackage":"40M","Ussnr":"34.4","Dssnr":"38.2","IpCm":"10.154.36.200","MacAddress":"b4:ee:b4:7e:39:64","Fabricante":"Askey","Modelo":"TCG220-TdP","Firmware":"D21A.UUN04.C12.190617.02","IspCpe":"CPE","EstadoModem":"Activo","PowerUp":"45.0","PowerDown":"2.7","MACState":"online","Mensaje":""},"Servicio2":{"Cmts":"ZARATE2","Nodo":"HN","Troba":"R001","ServicePackage":"1M","Ussnr":"39.1","Dssnr":"37.8","IpCm":"10.164.47.171","MacAddress":"08:6a:0a:60:e5:ce","Fabricante":"Askey","Modelo":"TCG220-TdP","Firmware":"D21A.UUN04.C12.190617.02","IspCpe":"CGNAT","EstadoModem":"Activo","PowerUp":"57.0","PowerDown":"-9.3","MACState":"online","Mensaje":"Probable averia en:Red Cliente"},"Servicio3":{"Cmts":"MALA1","Nodo":"ZS","Troba":"R001","ServicePackage":"200M","Ussnr":"42.1","Dssnr":"35.4","IpCm":"10.107.16.44","MacAddress":"ec:0e:c4:77:cc:89","Fabricante":"Ubee","Modelo":"DVW32E","Firmware":"9.36.2005r","IspCpe":"CPE","EstadoModem":"Activo","PowerUp":"50.3","PowerDown":"-1.3","MACState":"online","Mensaje":""}}} 
+
+[2020-01-13 20:11:05] IP:undefined Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: {"mensaje":{"Servicio1":{"Cmts":"SAN ISIDRO1","Nodo":"SI","Troba":"R083","ServicePackage":"40M","Ussnr":"34.4","Dssnr":"38.2","IpCm":"10.154.36.200","MacAddress":"b4:ee:b4:7e:39:64","Fabricante":"Askey","Modelo":"TCG220-TdP","Firmware":"D21A.UUN04.C12.190617.02","IspCpe":"CPE","EstadoModem":"Activo","PowerUp":"45.0","PowerDown":"2.7","MACState":"online","Mensaje":""},"Servicio2":{"Cmts":"ZARATE2","Nodo":"HN","Troba":"R001","ServicePackage":"1M","Ussnr":"39.1","Dssnr":"37.8","IpCm":"10.164.47.171","MacAddress":"08:6a:0a:60:e5:ce","Fabricante":"Askey","Modelo":"TCG220-TdP","Firmware":"D21A.UUN04.C12.190617.02","IspCpe":"CGNAT","EstadoModem":"Activo","PowerUp":"57.0","PowerDown":"-9.3","MACState":"online","Mensaje":"Probable averia en:Red Cliente"},"Servicio3":{"Cmts":"MALA1","Nodo":"ZS","Troba":"R001","ServicePackage":"200M","Ussnr":"42.1","Dssnr":"35.4","IpCm":"10.107.16.44","MacAddress":"ec:0e:c4:77:cc:89","Fabricante":"Ubee","Modelo":"DVW32E","Firmware":"9.36.2005r","IspCpe":"CPE","EstadoModem":"Activo","PowerUp":"50.3","PowerDown":"-1.3","MACState":"online","Mensaje":""}},"INFORMACION":"Método Obsoleto, usar el metodo getInfoBasicaServicioHFCxCliente"} 
+
+[2020-01-13 20:11:23] IP:Metodo: multiconsultaIdCliente
+[2020-01-13 20:11:24] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: {"mensaje":{"Servicio1":{"Cmts":"SAN ISIDRO1","Nodo":"SI","Troba":"R083","ServicePackage":"40M","Ussnr":"34.4","Dssnr":"38.2","IpCm":"10.154.36.200","MacAddress":"b4:ee:b4:7e:39:64","Fabricante":"Askey","Modelo":"TCG220-TdP","Firmware":"D21A.UUN04.C12.190617.02","IspCpe":"CPE","EstadoModem":"Activo","PowerUp":"45.0","PowerDown":"2.7","MACState":"online","Mensaje":""},"Servicio2":{"Cmts":"ZARATE2","Nodo":"HN","Troba":"R001","ServicePackage":"1M","Ussnr":"39.1","Dssnr":"37.8","IpCm":"10.164.47.171","MacAddress":"08:6a:0a:60:e5:ce","Fabricante":"Askey","Modelo":"TCG220-TdP","Firmware":"D21A.UUN04.C12.190617.02","IspCpe":"CGNAT","EstadoModem":"Activo","PowerUp":"57.0","PowerDown":"-9.3","MACState":"online","Mensaje":"Probable averia en:Red Cliente"},"Servicio3":{"Cmts":"MALA1","Nodo":"ZS","Troba":"R001","ServicePackage":"200M","Ussnr":"42.1","Dssnr":"35.4","IpCm":"10.107.16.44","MacAddress":"ec:0e:c4:77:cc:89","Fabricante":"Ubee","Modelo":"DVW32E","Firmware":"9.36.2005r","IspCpe":"CPE","EstadoModem":"Activo","PowerUp":"50.3","PowerDown":"-1.3","MACState":"online","Mensaje":""}},"INFORMACION":"Método Obsoleto, usar el metodo getInfoBasicaServicioHFCxCliente"} 
+
+[2020-01-13 20:12:08] IP:::ffff:190.234.74.9 SOAP@multiconsultaIdCliente 
+ Respuesta: {"message":"Método Obsoleto, usar el metodo getInfoBasicaServicioHFCxCliente"} 
+
+[2020-01-13 20:12:17] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoBasicaServicioHFCxCliente 
+ Respuesta: {"mensaje":{"Servicio1":{"Cmts":"SAN ISIDRO1","Nodo":"SI","Troba":"R083","ServicePackage":"40M","Ussnr":"34.4","Dssnr":"38.2","IpCm":"10.154.36.200","MacAddress":"b4:ee:b4:7e:39:64","Fabricante":"Askey","Modelo":"TCG220-TdP","Firmware":"D21A.UUN04.C12.190617.02","IspCpe":"CPE","EstadoModem":"Activo","PowerUp":"45.0","PowerDown":"2.7","MACState":"online","Mensaje":""},"Servicio2":{"Cmts":"ZARATE2","Nodo":"HN","Troba":"R001","ServicePackage":"1M","Ussnr":"39.1","Dssnr":"37.8","IpCm":"10.164.47.171","MacAddress":"08:6a:0a:60:e5:ce","Fabricante":"Askey","Modelo":"TCG220-TdP","Firmware":"D21A.UUN04.C12.190617.02","IspCpe":"CGNAT","EstadoModem":"Activo","PowerUp":"57.0","PowerDown":"-9.3","MACState":"online","Mensaje":"Probable averia en:Red Cliente"},"Servicio3":{"Cmts":"MALA1","Nodo":"ZS","Troba":"R001","ServicePackage":"200M","Ussnr":"42.1","Dssnr":"35.4","IpCm":"10.107.16.44","MacAddress":"ec:0e:c4:77:cc:89","Fabricante":"Ubee","Modelo":"DVW32E","Firmware":"9.36.2005r","IspCpe":"CPE","EstadoModem":"Activo","PowerUp":"50.3","PowerDown":"-1.3","MACState":"online","Mensaje":""}},"INFORMACION":"Método Obsoleto, usar el metodo getInfoBasicaServicioHFCxCliente"} 
+
+[2020-01-13 20:15:43] IP:::ffff:190.234.74.9 SOAP@verifyHFCByIdClientResponse 
+ Respuesta: {"message":"Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente"} 
+
+[2020-01-13 20:15:44] IP:::ffff:190.234.74.9 Usuario:TEST SOAP@getInfoEstadoServicioHFCxCliente 
+ Respuesta: {"mensaje":{"IPS":{"DisponibilidadIP":"NOK","DetalleIPS CMTS":"LIMMALCMTSC100G","DetalleIPS SCOPEGROUP":"CPE","TOTAL":"2024","DISPONIBLES":"158"},"TrabajoProgramado":{"EnTrabajoProgramado":"NOK"},"Masiva":{"EnMasiva":"NOK"},"Alertado":{"EstaAlertado":"NOK"}},"INFORMACION":"Método Obsoleto, usar el metodo getInfoEstadoServicioHFCxCliente"} 
+

@@ -1,0 +1,25 @@
+{
+  "name": "proyectoHFC_WS_SOAP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon ./server.js",
+    "prod": "forever start ./server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-useragent": "^1.0.13",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.17.1",
+    "nodemon": "^2.0.2",
+    "pm2": "^4.2.1",
+    "soap": "^0.30.0",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^4.4.1"
+  }
+}

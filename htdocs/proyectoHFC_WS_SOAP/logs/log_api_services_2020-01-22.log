@@ -1,0 +1,1292 @@
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 11:40:20 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk3MTEyMjAsImV4cCI6MTU3OTcxNDgyMH0.H49Ka1XrDcMnCBj2v6IjATK9k42k-7P3zJs5p5cemdc
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 11:41:23 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>43.3</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>6.9</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>37.4</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>38.9</Valor>                               
+                                                    </Parametro4><Mensaje>0#USPWR|43.3|DSPWR|6.9|USSNR|37.4|DSSNR|38.9</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 11:41:40 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202019. DEBE ENVIAR LA MACADDRESS DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 11:41:46 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202018. MACADDRESS NO PUEDE SER CERO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 11:41:51 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202002. CANTIDAD DE CARACTERES MAYOR A FORMATO DE MACADDRESS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 11:41:59 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201924. EL FORMATO NO ES CORRECTO, FALTA UN PUNTO DE SEPARACION.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 11:42:05 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202023. DEBE ENVIAR LA ID DE SERVICIO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 11:42:08 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202022. ID DE SERVICIO NO PUEDE SER CERO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 11:42:15 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202021. DEBE ENVIAR LA ID DEL PRODUCTO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 11:42:20 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202020. ID DEL PRODUCTO NO PUEDE SER CERO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 11:42:53 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>43.3</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>7</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>39.1</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>38.6</Valor>                               
+                                                    </Parametro4><Mensaje>0#USPWR|43.3|DSPWR|7|USSNR|39.1|DSSNR|38.6</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 11:51:47 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.0</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>0.6</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>37.10</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>45.50</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.0|DSPWR|0.6|USSNR|37.10|DSSNR|45.50#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:07:09 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.0</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>0.3</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>37.80</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>45.50</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.0|DSPWR|0.3|USSNR|37.80|DSSNR|45.50#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:07:14 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202002. DEBE ENVIAR EL USUARIO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:08:54 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202019. DEBE ENVIAR LA MACADDRESS DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:11:01 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202018. MACADDRESS NO PUEDE SER CERO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:13:06 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 201923. EL FORMATO NO ES CORRECTO, NO SE ENCUENTRAN PUNTOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:14:03 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202014. TOKEN INVÁLIDO. VERIFICAR O GENERAR UNO NUEVO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:14:10 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202014. TOKEN INVÁLIDO. VERIFICAR O GENERAR UNO NUEVO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:15:16 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202003. MACADDRESS NO EXISTE EN LA BASE DE DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:20:00 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TESTING 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202016. ERROR DE VALIDACIÓN DE CREDENCIALES.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:23:48 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202002. DEBE ENVIAR EL USUARIO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:25:11 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202019. DEBE ENVIAR LA MACADDRESS DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:27:07 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202018. MACADDRESS NO PUEDE SER CERO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:28:06 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201923. EL FORMATO NO ES CORRECTO, NO SE ENCUENTRAN PUNTOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:30:01 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202014. TOKEN INVÁLIDO. VERIFICAR O GENERAR UNO NUEVO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:30:11 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202014. TOKEN INVÁLIDO. VERIFICAR O GENERAR UNO NUEVO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:31:16 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TESTING 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202016. ERROR DE VALIDACIÓN DE CREDENCIALES.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:33:34 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>46</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>5.6</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.7</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>38.6</Valor>                               
+                                                    </Parametro4><Mensaje>0#USPWR|46|DSPWR|5.6|USSNR|36.7|DSSNR|38.6</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:34:10 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>46</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>5.6</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>38.2</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>38.9</Valor>                               
+                                                    </Parametro4><Mensaje>0#USPWR|46|DSPWR|5.6|USSNR|38.2|DSSNR|38.9</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:34:47 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>46</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>5.6</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>35.6</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>38.9</Valor>                               
+                                                    </Parametro4><Mensaje>0#USPWR|46|DSPWR|5.6|USSNR|35.6|DSSNR|38.9</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:35:23 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>46</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>5.5</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>35.6</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>38.6</Valor>                               
+                                                    </Parametro4><Mensaje>0#USPWR|46|DSPWR|5.5|USSNR|35.6|DSSNR|38.6</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:36:04 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>46</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>5.6</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>38.2</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>38.6</Valor>                               
+                                                    </Parametro4><Mensaje>0#USPWR|46|DSPWR|5.6|USSNR|38.2|DSSNR|38.6</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:36:29 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>46</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>5.6</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>36.7</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>38.6</Valor>                               
+                                                    </Parametro4><Mensaje>0#USPWR|46|DSPWR|5.6|USSNR|36.7|DSSNR|38.6</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:37:55 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>46</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>5.6</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>38.2</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>38.9</Valor>                               
+                                                    </Parametro4><Mensaje>0#USPWR|46|DSPWR|5.6|USSNR|38.2|DSSNR|38.9</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:39:17 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201925. NO SE HA ENCONTRADO INFORMACION DE LOS DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:45:50 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202014. TOKEN INVÁLIDO. VERIFICAR O GENERAR UNO NUEVO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:46:10 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk3MTUxNzAsImV4cCI6MTU3OTcxODc3MH0.xLsLqr96gsUilu5RH108suEfuvm8zFAuWl2-p1lOxKA
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:46:29 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201923. EL FORMATO NO ES CORRECTO, NO SE ENCUENTRAN PUNTOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:48:04 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201924. EL FORMATO NO ES CORRECTO, FALTA UN PUNTO DE SEPARACION.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:50:24 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202023. DEBE ENVIAR LA ID DE SERVICIO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:51:44 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202022. ID DE SERVICIO NO PUEDE SER CERO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:52:20 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202020. ID DE SERVICIO TIENE QUE SER NUMERICO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 12:56:03 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201925. NO SE HA ENCONTRADO INFORMACION DE LOS DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 13:16:20 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202021. DEBE ENVIAR LA ID DEL PRODUCTO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 13:17:35 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202020. ID DEL PRODUCTO NO PUEDE SER CERO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 13:18:39 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202020. ID DE SERVICIO TIENE QUE SER NUMERICO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 13:18:51 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201925. NO SE HA ENCONTRADO INFORMACION DE LOS DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 13:19:02 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202020. ID DE SERVICIO TIENE QUE SER NUMERICO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 13:19:45 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202020. ID DE SERVICIO TIENE QUE SER NUMERICO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 13:20:04 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202020. ID DE SERVICIO TIENE QUE SER NUMERICO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 13:21:08 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202020. ID DE SERVICIO TIENE QUE SER NUMERICO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 13:22:33 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202020. ID DE PRODUCTO TIENE QUE SER NUMERICO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 13:23:46 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201925. NO SE HA ENCONTRADO INFORMACION DE LOS DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:17:18 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202014. TOKEN INVÁLIDO. VERIFICAR O GENERAR UNO NUEVO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:17:29 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk3MjA2NDksImV4cCI6MTU3OTcyNDI0OX0.jt70pUerCynldv4CaV9DPFprar_GhaZHNMIgoUsTgGk
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:17:48 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202003. MACADDRESS NO EXISTE EN LA BASE DE DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:18:05 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 201923. EL FORMATO NO ES CORRECTO, NO SE ENCUENTRAN PUNTOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:18:26 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 201924. EL FORMATO NO ES CORRECTO, FALTA UN PUNTO DE SEPARACION.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:18:53 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 201923. EL FORMATO NO ES CORRECTO, NO SE ENCUENTRAN PUNTOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:19:26 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202003. MACADDRESS NO EXISTE EN LA BASE DE DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:21:47 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 201923. EL FORMATO NO ES CORRECTO, NO SE ENCUENTRAN PUNTOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:22:07 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202014. TOKEN INVÁLIDO. VERIFICAR O GENERAR UNO NUEVO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:22:18 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk3MjA5MzgsImV4cCI6MTU3OTcyNDUzOH0.Q9oHo1XBRlmzPUFeBAQ9BdJEiXUhoCJHXvXKyVCYDmQ
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:22:32 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201924. EL FORMATO NO ES CORRECTO, FALTA UN PUNTO DE SEPARACION.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:23:05 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201925. NO SE HA ENCONTRADO INFORMACION DE LOS DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:23:22 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201925. NO SE HA ENCONTRADO INFORMACION DE LOS DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:23:54 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201925. NO SE HA ENCONTRADO INFORMACION DE LOS DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:49:54 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 201910. TOKEN INVALIDO DE USUARIO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:50:01 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk3MjI2MDEsImV4cCI6MTU3OTcyNjIwMX0.aZfl2Wqfxd-afe0YvFLH23uo5KxpUhtXw9pw4VKY_Wo
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:50:14 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202003. MACADDRESS NO EXISTE EN LA BASE DE DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:50:22 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202003. MACADDRESS NO EXISTE EN LA BASE DE DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:52:31 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.0</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>0.4</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>37.90</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>45.50</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.0|DSPWR|0.4|USSNR|37.90|DSSNR|45.50#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:55:51 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202013. DEBE ENVIAR CODIGO DE AUTORIZACION DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:58:25 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk3MjMxMDUsImV4cCI6MTU3OTcyNjcwNX0.I8WzsqhaX8X6-fZpmG2zbUQ6yesqBUFMU8ef6NLWFKE
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:59:07 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202013. DEBE ENVIAR CODIGO DE AUTORIZACION DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:59:13 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>1</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>52.0</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>0.3</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>37.10</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>45.50</Valor>                               
+                                                    </Parametro4><Resultado>rf-error</Resultado><Mensaje>0#USPWR|52.0|DSPWR|0.3|USSNR|37.10|DSSNR|45.50#rf-error</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:59:45 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST1 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202016. ERROR DE VALIDACIÓN DE CREDENCIALES.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 14:59:54 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202002. DEBE ENVIAR EL USUARIO DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:00:05 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202002. CANTIDAD DE CARACTERES MAYOR A FORMATO DE MACADDRESS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:00:21 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202019. DEBE ENVIAR LA MACADDRESS DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:00:28 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202018. MACADDRESS NO PUEDE SER CERO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:00:48 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodem
+Descripcion del motivo de evento: ERROR 202003. MACADDRESS NO EXISTE EN LA BASE DE DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:02:11 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201910. TOKEN INVALIDO DE USUARIO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:02:49 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201925. NO SE HA ENCONTRADO INFORMACION DE LOS DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:03:17 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201910. TOKEN INVALIDO DE USUARIO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:03:22 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk3MjM0MDIsImV4cCI6MTU3OTcyNzAwMn0.8pzCiMPnZ7K5xLiajUj8cgGfVhp0M_wTP4Ce4Gpg2XM
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:03:54 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201910. TOKEN INVALIDO DE USUARIO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:03:57 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>43</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>6.5</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>39.1</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>38.6</Valor>                               
+                                                    </Parametro4><Mensaje>0#USPWR|43|DSPWR|6.5|USSNR|39.1|DSSNR|38.6</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:04:04 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201910. TOKEN INVALIDO DE USUARIO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:04:40 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201910. TOKEN INVALIDO DE USUARIO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:05:08 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>43</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>6.5</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>39.1</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>38.6</Valor>                               
+                                                    </Parametro4><Mensaje>0#USPWR|43|DSPWR|6.5|USSNR|39.1|DSSNR|38.6</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:06:12 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201910. TOKEN INVALIDO DE USUARIO.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:06:28 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub21icmVVc3VhcmlvIjoiVEVTVCIsInBhc3N3b3JkVXN1YXJpbyI6Im11bHRpY29uc3VsdGEiLCJpYXQiOjE1Nzk3MjM1ODgsImV4cCI6MTU3OTcyNzE4OH0.2zo0WPsUurEcbG0d6nzRBxBBLxZJcWu5HWlXyP5TZRg
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:07:06 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: <CLIENTE><RETURN><SenalOK>0</SenalOK><Parametro1>
+                                                        <Nombre>USPWR</Nombre>
+                                                        <Valor>43</Valor>                               
+                                                    </Parametro1><Parametro2>
+                                                        <Nombre>DSPWR</Nombre>
+                                                        <Valor>6.6</Valor>                               
+                                                    </Parametro2><Parametro3>
+                                                        <Nombre>USSNR</Nombre>
+                                                        <Valor>39.1</Valor>                               
+                                                    </Parametro3><Parametro4>
+                                                        <Nombre>DSSNR</Nombre>
+                                                        <Valor>38.6</Valor>                               
+                                                    </Parametro4><Mensaje>0#USPWR|43|DSPWR|6.6|USSNR|39.1|DSSNR|38.6</Mensaje></RETURN></CLIENTE>
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:07:31 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 202019. DEBE ENVIAR LA MACADDRESS DE MANERA OBLIGATORIA.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:07:49 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201924. EL FORMATO NO ES CORRECTO, FALTA UN PUNTO DE SEPARACION.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:07:57 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201925. NO SE HA ENCONTRADO INFORMACION DE LOS DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 15:08:08 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario: TEST 
+Sistema Operativo: linux
+Metodo a que se accede: POST : SOAP@getPruebasCablemodemIW
+Descripcion del motivo de evento: ERROR 201925. NO SE HA ENCONTRADO INFORMACION DE LOS DATOS.
+
+---------- Descripción de Acceso ---------- 
+Fecha de acceso: 2020-01-22 17:11:47 
+Descripción del motivo:Acceso
+Recurso al que se accede: Servicio
+Tipo de acceso: Consulta
+IP de cliente: 190.234.74.9 
+Login de usuario:  
+Sistema Operativo: PostmanRuntime/7.22.0|PostmanRuntime|unknown|unknown
+Metodo a que se accede: POST : SOAP@Authentication
+Descripcion del motivo de evento: ERROR 202002. DEBE ENVIAR EL USUARIO DE MANERA OBLIGATORIA.
+

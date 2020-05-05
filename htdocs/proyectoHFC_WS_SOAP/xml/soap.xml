@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions name="wsdl" targetNamespace="http://10.123.200.222:8091/services/HFC" xmlns="http://10.123.200.222:8091/services/HFC" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns = "http://10.123.200.222:8091/services/HFC" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsd = "http://www.w3.org/2001/XMLSchema3">
+
+   <message name = "AuthenticationRequest"></message>
+   <message name = "AuthenticationResponse"></message>
+   <message name = "GetInfoBasicaServicioHFCxClienteRequest">
+      <part name = "idCliente" type = "xsd:int"/>
+   </message>
+   <message name = "GetInfoBasicaServicioHFCxClienteResponse">
+      <part name = "result" type = "xsd:string"/>
+   </message>
+   <message name = "GetInfoEstadoServicioHFCxClienteRequest">
+      <part name = "idCliente" type = "xsd:int"/>
+   </message>
+   <message name = "GetInfoEstadoServicioHFCxClienteResponse">
+      <part name = "result" type = "xsd:string"/>
+   </message>
+   <message name = "MulticonsultaIdClienteRequest">
+      <part name = "idCliente" type = "xsd:int"/>
+   </message>
+   <message name = "MulticonsultaIdClienteResponse">
+      <part name = "result" type = "xsd:string"/>
+   </message>
+   <message name = "VerifyHFCByIdClientRequest">
+      <part name = "idCliente" type = "xsd:int"/>
+   </message>
+   <message name = "VerifyHFCByIdClientResponse">
+      <part name = "status" type = "xsd:int"/>
+   </message>
+   <message name = "GetPruebasCablemodemRequest">
+      <part name = "mac_address" type = "xsd:string"/>
+   </message>
+   <message name = "GetPruebasCablemodemResponse">
+      <part name = "result" type = "xsd:string"/>
+   </message>
+   <message name = "GetPruebasCablemodemIWRequest">
+      <part name = "mac_address" type = "xsd:string"/>
+      <part name = "idServicio" type = "xsd:string"/>
+      <part name = "idProducto" type = "xsd:string"/>
+   </message>
+   <message name = "GetPruebasCablemodemIWResponse">
+      <part name = "result" type = "xsd:string"/>
+   </message>
+   
+   <portType name = "MyPort">
+      <operation name = "Authentication">
+         <input message = "tns:AuthenticationRequest"/>
+         <output message = "tns:AuthenticationResponse"/>
+      </operation>
+      <operation name = "getInfoBasicaServicioHFCxCliente">
+         <input message = "tns:GetInfoBasicaServicioHFCxClienteRequest"/>
+         <output message = "tns:GetInfoBasicaServicioHFCxClienteResponse"/>
+      </operation>
+      <operation name = "getInfoEstadoServicioHFCxCliente">
+         <input message = "tns:GetInfoEstadoServicioHFCxClienteRequest"/>
+         <output message = "tns:GetInfoEstadoServicioHFCxClienteResponse"/>
+      </operation>
+      <operation name = "multiconsultaIdCliente">
+         <input message = "tns:MulticonsultaIdClienteRequest"/>
+         <output message = "tns:MulticonsultaIdClienteResponse"/>
+      </operation>
+      <operation name = "verifyHFCByIdClient">
+         <input message = "tns:VerifyHFCByIdClientRequest"/>
+         <output message = "tns:VerifyHFCByIdClientResponse"/>
+      </operation>
+      <operation name = "getPruebasCablemodem">
+         <input message = "tns:GetPruebasCablemodemRequest"/>
+         <output message = "tns:GetPruebasCablemodemResponse"/>
+      </operation>
+      <operation name = "getPruebasCablemodemIW">
+         <input message = "tns:GetPruebasCablemodemIWRequest"/>
+         <output message = "tns:GetPruebasCablemodemIWResponse"/>
+      </operation>
+   </portType>
+
+   <binding name = "Functions_Binding" type = "tns:MyPort">
+      <soap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+      <operation name = "Authentication">
+         <soap:operation soapAction = "Authentication"/>
+         <input>
+            <soap:body encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/" use = "literal"/>
+         </input>
+         <output>
+            <soap:body encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/" use = "literal"/>
+         </output>
+      </operation>
+      <operation name = "getInfoBasicaServicioHFCxCliente">
+         <soap:operation soapAction = "getInfoBasicaServicioHFCxCliente"/>
+         <input>
+            <soap:body encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/" use = "literal"/>
+         </input>
+         <output>
+            <soap:body encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/" use = "literal"/>
+         </output>
+      </operation>
+      <operation name = "getInfoEstadoServicioHFCxCliente">
+         <soap:operation soapAction = "getInfoEstadoServicioHFCxCliente"/>
+         <input>
+            <soap:body encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/" use = "literal"/>
+         </input>
+         <output>
+            <soap:body encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/" use = "literal"/>
+         </output>
+      </operation>
+      <operation name = "multiconsultaIdCliente">
+         <soap:operation soapAction = "multiconsultaIdCliente"/>
+         <input>
+            <soap:body encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/" use = "literal"/>
+         </input>
+         <output>
+            <soap:body encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/" use = "literal"/>
+         </output>
+      </operation>
+      <operation name = "verifyHFCByIdClient">
+         <soap:operation soapAction = "verifyHFCByIdClient"/>
+         <input>
+            <soap:body encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/" use = "literal"/>
+         </input>
+         <output>
+            <soap:body encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/" use = "literal"/>
+         </output>
+      </operation>
+      <operation name = "getPruebasCablemodem">
+         <soap:operation soapAction = "getPruebasCablemodem"/>
+         <input>
+            <soap:body encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/" use = "literal"/>
+         </input>
+         <output>
+            <soap:body encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/" use = "literal"/>
+         </output>
+      </operation>
+      <operation name = "getPruebasCablemodemIW">
+         <soap:operation soapAction = "getPruebasCablemodemIW"/>
+         <input>
+            <soap:body encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/" use = "literal"/>
+         </input>
+         <output>
+            <soap:body encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/" use = "literal"/>
+         </output>
+      </operation>
+   </binding>
+
+   <service name = "MyService">
+      <documentation>WSDL File for MyService testing</documentation>
+      <port binding = "tns:Functions_Binding" name = "MyPort">
+         <soap:address
+            location = "http://10.123.200.222:8091/services/HFC" />
+      </port>
+   </service>
+
+</definitions>
